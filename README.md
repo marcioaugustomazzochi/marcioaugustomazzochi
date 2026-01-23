@@ -1,3 +1,4 @@
+
 # 👋 Olá, eu sou o Márcio Augusto Mazzochi
 
 🎯 Profissional em formação contínua na área de **Segurança da Informação e Cibersegurança**, com foco em **estudos práticos, laboratórios e projetos hands-on**.
@@ -10,7 +11,7 @@
 - Governança, Riscos e Compliance (GRC)
 
 ## 🧪 Projetos e Laboratórios
-- 🔍 Pentest Lab com Kali Linux e Metasploitable (VirtualBox)
+- 🔍 Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)
   - Reconhecimento
   - Enumeração
   - Exploração
