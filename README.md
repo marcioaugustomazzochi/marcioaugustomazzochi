@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Márcio Augusto Mazzochi
 
-<!--
-**marcioaugustomazzochi/marcioaugustomazzochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Profissional em formação contínua na área de **Segurança da Informação e Cibersegurança**, com foco em **estudos práticos, laboratórios e projetos hands-on**.
 
-Here are some ideas to get you started:
+## 🔐 Áreas de Interesse
+- Segurança da Informação
+- Cibersegurança
+- Gestão de Riscos
+- Pentest (ambientes controlados)
+- Governança, Riscos e Compliance (GRC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Projetos e Laboratórios
+- 🔍 Pentest Lab com Kali Linux e Metasploitable (VirtualBox)
+  - Reconhecimento
+  - Enumeração
+  - Exploração
+  - Pós-exploração
+  - Documentação com prints e comandos
+
+## 🎓 Formação
+- 🎓 Tecnólogo em **Segurança da Informação** – UNIP (2024)
+- 🎓 MBA em **Cibersegurança e Gestão de Riscos** (em andamento)
+
+## 📌 Objetivo
+Consolidar conhecimento prático em segurança ofensiva e defensiva, aplicando boas práticas, ética profissional e aprendizado contínuo.
+
+## 🚀 Em evolução
+Este perfil está em constante atualização com novos estudos, laboratórios e projetos práticos.
