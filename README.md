@@ -1,29 +1,28 @@
-
-👋 Olá, eu sou o Márcio Augusto Mazzochi
+# 👋 Olá, eu sou o Márcio Augusto Mazzochi
 
 🎯 Profissional em formação contínua na área de **Segurança da Informação e Cibersegurança**, com foco em **estudos práticos, laboratórios e projetos hands-on**.
 
-🔐 Áreas de Interesse
+## 🔐 Áreas de Interesse
 - Segurança da Informação
 - Cibersegurança
 - Gestão de Riscos
 - Pentest (ambientes controlados)
 - Governança, Riscos e Compliance (GRC)
 
-🧪 Projetos e Laboratórios
+## 🧪 Projetos e Laboratórios
 - 🔍 Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)
-- Reconhecimento
-- Enumeração
-- Exploração
-- Pós-exploração
-- Documentação com prints e comandos
+  - Reconhecimento
+  - Enumeração
+  - Exploração
+  - Pós-exploração
+  - Documentação com prints e comandos
 
-🎓 Formação
-🎓 Tecnólogo em **Segurança da Informação** – UNIP (2024)
-🎓 MBA em **Cibersegurança e Gestão de Riscos** (em andamento)
+## 🎓 Formação
+- 🎓 Tecnólogo em **Segurança da Informação** – UNIP (2024)
+- 🎓 MBA em **Cibersegurança e Gestão de Riscos** (em andamento)
 
-📌 Objetivo
+## 📌 Objetivo
 Consolidar conhecimento prático em segurança ofensiva e defensiva, aplicando boas práticas, ética profissional e aprendizado contínuo.
 
-🚀 Em evolução
+## 🚀 Em evolução
 Este perfil está em constante atualização com novos estudos, laboratórios e projetos práticos.
