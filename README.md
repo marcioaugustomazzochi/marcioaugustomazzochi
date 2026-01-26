@@ -6,8 +6,8 @@
 
 ## 🎯 Áreas de Interesse
 
-- Cibersegurança
 - Segurança da Informação
+- Cibersegurança
 - Gestão de Riscos
 - Governança, Riscos e Compliance (GRC)
 - Privacidade e Proteção de Dados (LGPD)
@@ -18,6 +18,7 @@
 ## 🧪 Projetos e Laboratórios
 
 ### 🔍 Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)
+
 - Reconhecimento
 - Enumeração
 - Exploração
