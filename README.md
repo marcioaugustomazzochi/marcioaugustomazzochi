@@ -23,7 +23,7 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Segurança da Informação  
+- Information Security
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
