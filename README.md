@@ -4,10 +4,10 @@
 
 ---
 
-<h2>🎯 Áreas de Interesse</h2
+<h2>🎯 Áreas de Interesse</h2>
 
 <ul>
-  <li>Segurança da Informação
+  <li>Segurança da Informação</li>
   <li>Cibersegurança</li>
   <li>Gestão de Riscos</li>
   <li>Governança, Riscos e Compliance (GRC)</li>
