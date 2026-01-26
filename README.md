@@ -13,17 +13,18 @@
 
 ## 🧪 Projetos e Laboratórios
 
-🔍 **Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)**  
-- Reconhecimento  
-- Enumeração  
-- Exploração  
-- Pós-exploração  
-- Documentação com prints e comandos  
+🔍 **Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)**
+
+- Reconhecimento
+- Enumeração
+- Exploração
+- Pós-exploração
+- Documentação com prints e comandos
 
 ## 🎓 Formação
 
-- 🎓 Tecnólogo em Segurança da Informação – UNIP (2024)  
-- 🎓 MBA em Cibersegurança e Gestão de Riscos (em andamento)  
+- 🎓 Tecnólogo em Segurança da Informação – UNIP (2024)
+- 🎓 MBA em Cibersegurança e Gestão de Riscos (em andamento)
 
 ## 📌 Objetivo
 
@@ -31,4 +32,4 @@ Consolidar conhecimento prático em segurança ofensiva e defensiva, aplicando b
 
 ## 🚀 Em evolução
 
-Este perfil está em constante atualização com novos estudos, laboratórios e projetos práticos
+Este perfil está em constante atualização com novos estudos, laboratórios e projetos práticos.
