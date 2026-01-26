@@ -30,7 +30,13 @@
 
 ---
 
-## 📌 Objetivo
+## 🎓 Formações Complementares
+- Técnico em Administração
+- Técnico em Logística## 📌 
+
+---
+
+📌 Objetivo
 Consolidar conhecimento prático em segurança ofensiva e defensiva, aplicando boas práticas, ética profissional e aprendizado contínuo.
 
 ---
