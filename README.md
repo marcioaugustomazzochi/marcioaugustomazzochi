@@ -31,8 +31,8 @@
 ---
 
 ## 🎓 Formações Complementares
-- Técnico em Administração
-- Técnico em Logística##  
+- Técnico em Administração – **CPET**
+- Técnico em Logística – **CPET**
 
 ---
 
