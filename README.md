@@ -37,7 +37,7 @@ Busco consolidar conhecimento em **segurança ofensiva e defensiva**, aplicando 
 - 🔹 Documentação detalhada com prints e comandos  
 
 **Visualize o laboratório em ação:**  
-![Lab GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+![Lab GIF](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
 
 **Acesse o projeto completo:** [Ver Projeto](https://github.com/marcioaugustomazzochi/seuprojeto)
 
