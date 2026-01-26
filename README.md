@@ -7,7 +7,7 @@
 <h2>🎯 Áreas de Interesse</h2
 
 <ul>
-  <li>Segurança da Informação</li>
+  <li>Segurança da Informação
   <li>Cibersegurança</li>
   <li>Gestão de Riscos</li>
   <li>Governança, Riscos e Compliance (GRC)</li>
