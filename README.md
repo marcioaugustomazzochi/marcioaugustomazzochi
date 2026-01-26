@@ -39,7 +39,7 @@ Busco consolidar conhecimento em **segurança ofensiva e defensiva**, aplicando 
 **Visualize o laboratório em ação:**  
 ![Lab GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 
-**Acesse o projeto completo:** [Ver Projeto](https://github.com/seuusuario/seuprojeto)
+**Acesse o projeto completo:** [Ver Projeto](https://github.com/marcioaugustomazzochi/seuprojeto)
 
 ---
 
@@ -59,15 +59,15 @@ Perfil em constante atualização com novos **laboratórios, estudos e projetos 
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcioaugustomazzochi&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-- 📧 Email: seuemail@exemplo.com  
-- 🖥️ GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- [LinkedIn](https://www.linkedin.com/in/marcioaugustomazzochi/)  
+- 📧 Email: marcio.mazzochi@gmail.com  
+- 🖥️ GitHub: [github.com/marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
 ---
 
