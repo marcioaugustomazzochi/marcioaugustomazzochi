@@ -6,7 +6,7 @@
 
 ## 🎯 Áreas de Interesse
 
-- Segurança da Informação
+- Segurança&nbsp;da&nbsp;Informação
 - Cibersegurança
 - Gestão de Riscos
 - Governança, Riscos e Compliance (GRC)
