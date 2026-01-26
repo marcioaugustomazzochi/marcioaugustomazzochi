@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Márcio Augusto Mazzochi!
+# 👋 Olá, eu sou Márcio Augusto Mazzocchi!
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)  
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
@@ -23,7 +23,7 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Information Security
+- Segurança da Informação  
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
@@ -65,9 +65,24 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ---
 
+## 🧪 Laboratório em Ação
+> Demonstração visual de projetos práticos de Pentest e Cibersegurança em ambientes controlados  
+
+![Laboratório em Ação](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
+
+---
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzocchi&show_icons=true&theme=radical)
+| Estatística              | Valor         |
+|--------------------------|--------------|
+| Repositórios             | 12           |
+| Commits                  | 450+         |
+| Línguas mais usadas       | Python, Bash |
+| Seguidores               | 35           |
+| Seguindo                 | 10           |
+
+> *Os números podem variar com o tempo, consulte [meu GitHub](https://github.com/marcioaugustomazzocchi) para dados atualizados.*
 
 ---
 
