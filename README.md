@@ -23,7 +23,7 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Information Security
+- Segurança da Informação  
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
@@ -45,28 +45,30 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ## 🚀 Projetos em Destaque
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
 ### 🔹 Laboratório de Pentest
+<div style="border: 2px solid #FF4C4C; border-radius: 10px; padding: 15px; width: 300px; background-color: #1E1E2F;">
 **Descrição:** Kali Linux + Metasploitable + VirtualBox  
 **Objetivo:** Testes práticos de vulnerabilidades em ambientes controlados  
-
-![Laboratório de Pentest](https://media.giphy.com/media/3o7aD6f9dCniKfY6by/giphy.gif)  
-
-[Ver Projeto](https://github.com/marcioaugustomazzocchi)
-
----
+![GIF Laboratório](https://media.giphy.com/media/3o7aD6f9dCniKfY6by/giphy.gif)  
+[🔗 Ver Projeto](https://github.com/marcioaugustomazzocchi)
+</div>
 
 ### 🔹 Scripts Python para automação de segurança
+<div style="border: 2px solid #4C9EFF; border-radius: 10px; padding: 15px; width: 300px; background-color: #1E2F3E;">
 **Descrição:** Automação de tarefas de segurança e análise de vulnerabilidades  
 **Objetivo:** Aumentar a eficiência de processos de Pentest e auditorias  
+![GIF Python](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+[🔗 Ver Projeto](https://github.com/marcioaugustomazzocchi)
+</div>
 
-![Python Automation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-
-[Ver Projeto](https://github.com/marcioaugustomazzocchi)
+</div>
 
 ---
 
-## 🧪 Demonstração Visual
-> GIF mostrando o laboratório em ação: Kali Linux + Metasploit + Metasploitable  
+## 🧪 Laboratório em Ação
+> Demonstração visual de projetos práticos de Pentest e Cibersegurança em ambientes controlados  
 
 ![Laboratório em Ação](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
 
