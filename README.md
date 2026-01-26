@@ -7,26 +7,26 @@
 ## 🎯 Áreas de Interesse
 - Segurança da Informação
 - Cibersegurança
-- Gestão de Riscos  
-- Governança, Riscos e Compliance (GRC)  
-- Privacidade e Proteção de Dados (LGPD)  
+- Gestão de Riscos
+- Governança, Riscos e Compliance (GRC)
+- Privacidade e Proteção de Dados (LGPD)
 - Pentest (*ambientes controlados*)
 
 ---
 
 ## 🧪 Projetos e Laboratórios
 🔍 **Laboratório de Pentest com Kali Linux e Metasploitable (VirtualBox)**
-- Reconhecimento  
-- Enumeração  
-- Exploração  
-- Pós-exploração  
+- Reconhecimento
+- Enumeração
+- Exploração
+- Pós-exploração
 - Documentação com prints e comandos
 
 ---
 
 ## 🎓 Formação
-🎓 Tecnólogo em Segurança da Informação – **UNIP (2024)**  
-🎓 MBA em Cibersegurança e Gestão de Riscos – **em andamento**
+- Tecnólogo em Segurança da Informação – **UNIP (2024)**
+- MBA em Cibersegurança e Gestão de Riscos – **em andamento**
 
 ---
 
