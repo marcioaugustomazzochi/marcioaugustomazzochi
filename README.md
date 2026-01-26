@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou Márcio Augusto Mazzochi!
+# 👋 Olá, eu sou Márcio Augusto Mazzocchi!
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)  
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)  
-![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-Expert-orange)
+
+![Laboratório](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
 
 ---
 
@@ -46,29 +47,11 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🚀 Projetos em Destaque
 
 ### 🔹 Laboratório de Pentest
-**Descrição:** Kali Linux + Metasploitable + VirtualBox  
-**Objetivo:** Testes práticos de vulnerabilidades em ambientes controlados  
-
-![Laboratório de Pentest](https://media.giphy.com/media/3o7aD6f9dCniKfY6by/giphy.gif)  
-
+Kali Linux + Metasploitable + VirtualBox  
 [Ver Projeto](https://github.com/marcioaugustomazzocchi)
-
----
 
 ### 🔹 Scripts Python para automação de segurança
-**Descrição:** Automação de tarefas de segurança e análise de vulnerabilidades  
-**Objetivo:** Aumentar a eficiência de processos de Pentest e auditorias  
-
-![Python Automation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
-
-[Ver Projeto](https://github.com/marcioaugustomazzocchi)
-
----
-
-## 🧪 Laboratório em Ação
-> Demonstração visual de projetos práticos de Pentest e Cibersegurança em ambientes controlados  
-
-![Laboratório em Ação](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
+Automatização de tarefas de segurança (em breve)  
 
 ---
 
