@@ -6,9 +6,9 @@
 
 ## 🎯 Áreas de Interesse
 
-Segurança da Informação
 - Cibersegurança
 - Gestão de Riscos
+- Segurança da Informação
 - Governança, Riscos e Compliance (GRC)
 - Privacidade e Proteção de Dados (LGPD)
 - Pentest (ambientes controlados)
