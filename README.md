@@ -4,8 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)  
-
-![Laboratório](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
+![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-Expert-orange)
 
 ---
 
@@ -47,11 +46,22 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🚀 Projetos em Destaque
 
 ### 🔹 Laboratório de Pentest
-Kali Linux + Metasploitable + VirtualBox  
+**Descrição:** Kali Linux + Metasploitable + VirtualBox  
+**Objetivo:** Testes práticos de vulnerabilidades em ambientes controlados  
+
+![Laboratório de Pentest](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)  
+
 [Ver Projeto](https://github.com/marcioaugustomazzocchi)
 
+---
+
 ### 🔹 Scripts Python para automação de segurança
-Automatização de tarefas de segurança (em breve)  
+**Descrição:** Automatização de tarefas de segurança em ambientes controlados  
+**Objetivo:** Aumentar a eficiência de processos de Pentest e auditorias  
+
+*(Em breve)*  
+
+[Ver Projeto](https://github.com/marcioaugustomazzocchi)
 
 ---
 
