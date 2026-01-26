@@ -4,15 +4,16 @@
 
 ---
 
-## 🎯 Áreas de Interesse
+<h2>🎯 Áreas de Interesse</h2>
 
-
-- Cibersegurança
-- Segurança da Informação
-- Gestão de Riscos
-- Governança, Riscos e Compliance (GRC)
-- Privacidade e Proteção de Dados (LGPD)
-- Pentest (ambientes controlados)
+<ul>
+  <li>Segurança da Informação</li>
+  <li>Cibersegurança</li>
+  <li>Gestão de Riscos</li>
+  <li>Governança, Riscos e Compliance (GRC)</li>
+  <li>Privacidade e Proteção de Dados (LGPD)</li>
+  <li>Pentest (ambientes controlados)</li>
+</ul>
 
 ---
 
