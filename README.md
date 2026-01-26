@@ -46,18 +46,29 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🚀 Projetos em Destaque
 
 ### 🔹 Laboratório de Pentest
-Kali Linux + Metasploitable + VirtualBox  
+**Descrição:** Kali Linux + Metasploitable + VirtualBox  
+**Objetivo:** Testes práticos de vulnerabilidades em ambientes controlados  
 
 ![Laboratório de Pentest](https://media.giphy.com/media/3o7aD6f9dCniKfY6by/giphy.gif)  
 
 [Ver Projeto](https://github.com/marcioaugustomazzocchi)
 
+---
+
 ### 🔹 Scripts Python para automação de segurança
-Automatização de tarefas de segurança em ambientes controlados  
+**Descrição:** Automação de tarefas de segurança e análise de vulnerabilidades  
+**Objetivo:** Aumentar a eficiência de processos de Pentest e auditorias  
 
 ![Python Automation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 
 [Ver Projeto](https://github.com/marcioaugustomazzocchi)
+
+---
+
+## 🧪 Demonstração Visual
+> GIF mostrando o laboratório em ação: Kali Linux + Metasploit + Metasploitable  
+
+![Laboratório em Ação](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
 
 ---
 
