@@ -72,15 +72,17 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ---
 
-## 📊 Valentia
+## 📊 Métricas do GitHub
 
-| Estatística               | Valor   |
-|---------------------------|--------|
-| Repositórios              | 0      |
-| Compromete-se publicamente| 0      |
-| Seguidores                | 0      |
-| Seguindo                  | 0      |
-| Linguagens mais           | 0      |
+| Métrica                  | Value |
+|---------------------------|-------|
+| Repositórios Públicos     | 0     |
+| Commits (último ano)     | 0     |
+| Seguidores                | 0     |
+| Seguindo                  | 0     |
+| Linguagens Mais Usadas    | —     |
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzocchi&show_icons=true&theme=radical)
 
 ---
 
