@@ -72,15 +72,15 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Valentia
 
 | Estatística               | Valor   |
 |---------------------------|--------|
-| Repositórios públicos     | 0      |
-| Commits públicos          | 0      |
+| Repositórios              | 0      |
+| Compromete-se publicamente| 0      |
 | Seguidores                | 0      |
 | Seguindo                  | 0      |
-| Linguagens mais usadas    | 0      |
+| Linguagens mais           | 0      |
 
 ---
 
