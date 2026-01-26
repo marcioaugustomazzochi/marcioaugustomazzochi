@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Márcio Augusto Mazzocchi!
+# 👋 Olá, eu sou Márcio Augusto Mazzochi!
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)  
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
@@ -23,7 +23,7 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Segurança da Informação  
+- Information Security 
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
@@ -74,15 +74,13 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ## 📊 Estatísticas do GitHub
 
-| Estatística              | Valor         |
-|--------------------------|--------------|
-| Repositórios             | 12           |
-| Commits                  | 450+         |
-| Línguas mais usadas       | Python, Bash |
-| Seguidores               | 35           |
-| Seguindo                 | 10           |
-
-> *Os números podem variar com o tempo, consulte [meu GitHub](https://github.com/marcioaugustomazzocchi) para dados atualizados.*
+| Estatística               | Valor   |
+|---------------------------|--------|
+| Repositórios públicos     | 0      |
+| Commits públicos          | 0      |
+| Seguidores                | 0      |
+| Seguindo                  | 0      |
+| Linguagens mais usadas    | 0      |
 
 ---
 
