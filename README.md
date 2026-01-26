@@ -1,3 +1,4 @@
+
 # 👋 Olá, eu sou o Márcio Augusto Mazzochi
 
 🎯 Profissional em formação contínua na área de **Segurança da Informação** e **Cibersegurança**, com foco em estudos práticos, laboratórios e projetos *hands-on*.
@@ -6,9 +7,9 @@
 
 ## 🎯 Áreas de Interesse
 
+- Segurança da Informação
 - Cibersegurança
 - Gestão de Riscos
-- Segurança da Informação
 - Governança, Riscos e Compliance (GRC)
 - Privacidade e Proteção de Dados (LGPD)
 - Pentest (ambientes controlados)
