@@ -32,7 +32,7 @@
 
 ## 🎓 Formações Complementares
 - Técnico em Administração
-- Técnico em Logística## 📌 
+- Técnico em Logística##  
 
 ---
 
