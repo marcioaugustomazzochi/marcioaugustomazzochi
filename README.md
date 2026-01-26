@@ -6,8 +6,8 @@
 
 ## 🎯 Áreas de Interesse
 
-- Segurança da Informação
 - Cibersegurança
+- Segurança da informação
 - Gestão de Riscos
 - Governança, Riscos e Compliance (GRC)
 - Privacidade e Proteção de Dados (LGPD)
