@@ -37,7 +37,7 @@ Busco consolidar conhecimento em **segurança ofensiva e defensiva**, aplicando 
 - 🔹 Documentação detalhada com prints e comandos  
 
 **Visualize o laboratório em ação:**  
-![Lab GIF](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
+![Lab GIF](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)  
 
 **Acesse o projeto completo:** [Ver Projeto](https://github.com/marcioaugustomazzochi/seuprojeto)
 
@@ -66,7 +66,7 @@ Perfil em constante atualização com novos **laboratórios, estudos e projetos 
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/marcioaugustomazzochi/)  
-- 📧 Email: marcio.mazzochi@gmail.com  
+- 📧 Email: marciomazzochi@gmail.com  
 - 🖥️ GitHub: [github.com/marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
 ---
