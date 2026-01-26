@@ -13,6 +13,8 @@
 Sou profissional em **Segurança da Informação e Cibersegurança**, com foco em **laboratórios práticos, projetos hands-on e aprendizado contínuo**.  
 Busco consolidar conhecimento em **segurança ofensiva e defensiva**, aplicando boas práticas, ética profissional e **aprendizado constante**.
 
+> "A excelência em segurança vem da prática constante, ética profissional e aprendizado aplicado."
+
 ---
 
 ## 🔐 Áreas de Interesse
@@ -36,17 +38,18 @@ Busco consolidar conhecimento em **segurança ofensiva e defensiva**, aplicando 
 
 **Visualize o laboratório em ação:**  
 ![Lab GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+
 **Acesse o projeto completo:** [Ver Projeto](https://github.com/seuusuario/seuprojeto)
 
 ---
 
 ## 🎓 Formação Acadêmica
 - Tecnólogo em Segurança da Informação – **UNIP (2024)**  
-- MBA em Cibersegurança e Gestão de Riscos – **em andamento**  
+- MBA em Cibersegurança e Gestão de Riscos – **em andamento**
 
 ### Formações Complementares
 - Técnico em Administração – **CPET**  
-- Técnico em Logística – **CPET**  
+- Técnico em Logística – **CPET**
 
 ---
 
@@ -68,4 +71,4 @@ Perfil em constante atualização com novos **laboratórios, estudos e projetos 
 
 ---
 
-⭐ Se gostou do conteúdo, não esqueça de dar um **Star** nos repositórios!
+⭐ Se gostou do conteúdo, não esqueça de dar uma **estrela** nos repositórios!
