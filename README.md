@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Márcio Augusto Mazzocchi!
+# 👋 Olá, eu sou Márcio Augusto Mazzochi!
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)  
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
@@ -23,7 +23,7 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Segurança da Informação  
+- Information Security
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
