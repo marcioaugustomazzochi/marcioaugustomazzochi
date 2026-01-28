@@ -88,7 +88,10 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
 
 ## 📊 Métricas Visuais do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical" />
+</p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=marcioaugustomazzochi&theme=darkhub)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marcioaugustomazzochi&theme=darkhub" />
+</p>
