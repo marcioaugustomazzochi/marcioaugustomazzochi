@@ -25,7 +25,7 @@ Atuo principalmente com:
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Segurança da Informação  
+- Inforemation Security
 - Pentest (ambientes controlados)  
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
