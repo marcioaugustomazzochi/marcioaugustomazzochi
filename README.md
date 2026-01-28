@@ -1,40 +1,42 @@
-# 👋 Olá, eu sou Marcio Augusto Mazzochi!
+# 👋 Olá, eu sou Marcio Augusto Mazzochi
 
-![Linux](https://img.shields.io/badge/Linux-Kali-blue)  
-![Python](https://img.shields.io/badge/Python-Scripting-yellow)  
-![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)  
-![Segurança da Informação](https://img.shields.io/badge/Segurança_da_Informação-Expert-orange)
+![Linux](https://img.shields.io/badge/Linux-Kali-blue)
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)
 
 ---
 
 ## 🎯 Sobre mim
-Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
-- Laboratórios práticos (Kali Linux, Metasploit, VirtualBox)  
-- Projetos hands-on  
-- Aprendizado contínuo  
-- Ética profissional e boas práticas  
+Profissional em formação contínua na área de **Segurança da Informação e Cibersegurança**, com foco em aprendizado prático, projetos hands-on e aplicação de boas práticas em ambientes controlados.
 
-> *"A excelência em segurança vem da prática constante, ética profissional e aprendizado aplicado."*
+Atuo principalmente com:
+
+- Laboratórios práticos (Kali Linux, Metasploitable, VirtualBox)  
+- Estudos aplicados em Pentest e Segurança Ofensiva  
+- Automação e scripts para apoio à segurança  
+- Ética profissional e conformidade (LGPD / GRC)  
+
+> *"A segurança eficaz nasce da prática constante, do pensamento crítico e da responsabilidade ética."*
 
 ---
 
 ## 🔐 Áreas de Interesse
 
 - Cibersegurança  
-- Information Security 
+- Segurança da Informação  
+- Pentest (ambientes controlados)  
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
-- Pentest em ambientes controlados  
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- Tecnólogo em Segurança da Informação – **UNIP (2024)**  
-- MBA em Cibersegurança e Gestão de Riscos – **em andamento**  
+- **Tecnólogo em Segurança da Informação** – UNIP (2024)  
+- **MBA em Cibersegurança e Gestão de Riscos** – em andamento  
 
 ### 📘 Formações Complementares
 
@@ -45,53 +47,39 @@ Profissional de **Segurança da Informação e Cibersegurança**, com foco em:
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 Laboratório de Pentest
-**Descrição:** Kali Linux + Metasploitable + VirtualBox  
-**Objetivo:** Testes práticos de vulnerabilidades em ambientes controlados  
+### 🔹 Laboratório Prático de Pentest
+**Tecnologias:** Kali Linux • Metasploitable • VirtualBox  
+**Descrição:** Execução de testes práticos de vulnerabilidades em ambiente isolado e autorizado, seguindo metodologia clássica de Pentest.
 
-![Laboratório de Pentest](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)  
+📌 Reconhecimento • Enumeração • Exploração • Pós-exploração  
+📂 Documentação técnica, comandos utilizados e evidências visuais organizadas no repositório.
 
-[Ver Projeto](https://github.com/marcioaugustomazzocchi)
-
----
-
-### 🔹 Scripts Python para automação de segurança
-**Descrição:** Automatização de tarefas de segurança em ambientes controlados  
-**Objetivo:** Aumentar a eficiência de processos de Pentest e auditorias  
-
-*(Em breve)*  
-
-[Ver Projeto](https://github.com/marcioaugustomazzocchi)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzocchi)
 
 ---
 
-## 🧪 Laboratório em Ação
-> Demonstração visual de projetos práticos de Pentest e Cibersegurança em ambientes controlados  
+### 🔹 Scripts Python para Automação de Segurança
+**Descrição:** Scripts voltados à automação de tarefas em ambientes de segurança, apoio a análises e estudos de vulnerabilidades.
 
-![Laboratório em Ação](https://media.giphy.com/media/Ln7tO7zvS6Z1m/giphy.gif)
+📌 Projeto em desenvolvimento  
+➡️ [Ver repositórios](https://github.com/marcioaugustomazzocchi)
 
 ---
 
-## 📊 Métricas do GitHub
+## ⚠️ Aviso Ético
 
-| Métrica                  | Value |
-|---------------------------|-------|
-| Repositórios Públicos     | 0     |
-| Commits (último ano)     | 0     |
-| Seguidores                | 0     |
-| Seguindo                  | 0     |
-| Linguagens Mais Usadas    | —     |
+Todos os projetos apresentados são realizados **exclusivamente para fins educacionais**, em ambientes controlados e com autorização.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzocchi&show_icons=true&theme=radical)
+Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal.
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcioaugustomazzocchi-blue)](https://www.linkedin.com/in/marcioaugustomazzocchi)  
+🔗 **LinkedIn:** [linkedin.com/in/marcioaugustomazzocchi](https://www.linkedin.com/in/marcioaugustomazzocchi)  
 📧 **E-mail:** marciomazzocchi@gmail.com  
 🐙 **GitHub:** [github.com/marcioaugustomazzocchi](https://github.com/marcioaugustomazzocchi)
 
 ---
 
-⭐ Se gostou do conteúdo, não esqueça de dar uma estrela nos repositórios!
+⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação e Cibersegurança.*
