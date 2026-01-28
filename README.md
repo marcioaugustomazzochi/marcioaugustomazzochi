@@ -83,3 +83,11 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
 🐙 GitHub: https://github.com/marcioaugustomazzochi
 
 ⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.*
+
+---
+
+## 📊 Métricas Visuais do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=marcioaugustomazzochi&theme=darkhub)
