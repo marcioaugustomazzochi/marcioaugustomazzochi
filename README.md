@@ -89,5 +89,6 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
 ## 📊 Métricas Visuais do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcioaugustomazzochi&theme=radical" height="165"/>
 </div>
