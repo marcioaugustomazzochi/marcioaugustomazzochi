@@ -78,9 +78,9 @@ Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal, em c
 
 ## 📫 Contato
 
-🔗 **LinkedIn:** [linkedin.com/in/marcioaugustomazzocchi](https://www.linkedin.com/in/marcioaugustomazzocchi)  
-📧 **E-mail:** marciomazzocchi@gmail.com  
-🐙 **GitHub:** [github.com/marcioaugustomazzocchi](https://github.com/marcioaugustomazzocchi)
+🔗 **LinkedIn:** [linkedin.com/in/marcioaugustomazzochi](https://www.linkedin.com/in/marcioaugustomazzocchi)  
+📧 **E-mail:** marciomazzochi@gmail.com  
+🐙 **GitHub:** [github.com/marcioaugustomazzochi](https://github.com/marcioaugustomazzocchi)
 
 ---
 
