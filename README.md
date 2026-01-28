@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)
+![Privacy](https://img.shields.io/badge/Privacidade_e_Proteção_de_Dados-LGPD-blueviolet)
+![InfoSec](https://img.shields.io/badge/Segurança_da_Informação-InfoSec-orange)
 
 ---
 
