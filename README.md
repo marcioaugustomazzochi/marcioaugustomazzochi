@@ -9,27 +9,28 @@
 
 ## 🎯 Sobre mim
 
-Profissional em formação contínua na área de **Segurança da Informação e Cibersegurança**, com foco em aprendizado prático, projetos hands-on e aplicação de boas práticas em ambientes controlados.
+Profissional de **Segurança da Informação, Cibersegurança, Privacidade e Proteção de Dados**, com foco em aprendizado prático, projetos hands-on e aplicação de boas práticas em ambientes controlados e alinhados à conformidade.
 
-Atuo principalmente com:
+Atuação voltada para:
 
-- Laboratórios práticos (Kali Linux, Metasploitable, VirtualBox)  
-- Estudos aplicados em Pentest e Segurança Ofensiva  
-- Automação e scripts para apoio à segurança  
-- Ética profissional e conformidade (LGPD / GRC)  
+- Segurança da Informação aplicada  
+- Privacidade e Proteção de Dados (LGPD)  
+- Laboratórios práticos (Kali Linux, Metasploit, VirtualBox)  
+- Projetos técnicos e documentação  
+- Aprendizado contínuo, ética profissional e conformidade  
 
-> *"A segurança eficaz nasce da prática constante, do pensamento crítico e da responsabilidade ética."*
+> *"A excelência em segurança vem da prática constante, ética profissional e aprendizado aplicado."*
 
 ---
 
 ## 🔐 Áreas de Interesse
 
+- Segurança da Informação  
 - Cibersegurança  
-- Inforemation Security
-- Pentest (ambientes controlados)  
+- Privacidade e Proteção de Dados  
 - Gestão de Riscos  
 - Governança, Riscos e Compliance (GRC)  
-- Privacidade e Proteção de Dados (LGPD)  
+- Pentest em ambientes controlados  
 
 ---
 
@@ -49,17 +50,16 @@ Atuo principalmente com:
 
 ### 🔹 Laboratório Prático de Pentest
 **Tecnologias:** Kali Linux • Metasploitable • VirtualBox  
-**Descrição:** Execução de testes práticos de vulnerabilidades em ambiente isolado e autorizado, seguindo metodologia clássica de Pentest.
+**Descrição:** Testes práticos de vulnerabilidades em ambiente isolado e autorizado, seguindo metodologia de Pentest e boas práticas de Segurança da Informação.
 
 📌 Reconhecimento • Enumeração • Exploração • Pós-exploração  
-📂 Documentação técnica, comandos utilizados e evidências visuais organizadas no repositório.
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzocchi)
 
 ---
 
 ### 🔹 Scripts Python para Automação de Segurança
-**Descrição:** Scripts voltados à automação de tarefas em ambientes de segurança, apoio a análises e estudos de vulnerabilidades.
+**Descrição:** Automatização de tarefas de segurança e apoio a análises técnicas, respeitando princípios de segurança, privacidade e conformidade.
 
 📌 Projeto em desenvolvimento  
 ➡️ [Ver repositórios](https://github.com/marcioaugustomazzocchi)
@@ -70,7 +70,7 @@ Atuo principalmente com:
 
 Todos os projetos apresentados são realizados **exclusivamente para fins educacionais**, em ambientes controlados e com autorização.
 
-Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal.
+Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal, em conformidade com princípios de **Segurança da Informação, Privacidade e Proteção de Dados**.
 
 ---
 
@@ -82,4 +82,4 @@ Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal.
 
 ---
 
-⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação e Cibersegurança.*
+⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.*
