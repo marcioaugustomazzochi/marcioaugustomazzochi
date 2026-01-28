@@ -79,7 +79,9 @@ Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal, em c
 ## 📫 Contato
 
 [linkedin.com/in/marcioaugustomazzochi](https://www.linkedin.com/in/marcioaugustomazzochi)
+
 [marciomazzochi@gmail.com](mailto:marciomazzochi@gmail.com)
+
 [github.com/marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
 ⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.*
