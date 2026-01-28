@@ -92,7 +92,4 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
   <!-- Gráfico de stats gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical"/>
   
-  <!-- Gráfico de Top Languages -->
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioaugustomazzochi&layout=compact&theme=radical"/>
-</div>
+ 
