@@ -89,9 +89,10 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
 ## 📊 Métricas Visuais do GitHub
 
 <div align="center">
+  <!-- Gráfico de stats gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical"/>
-</div>
-
-<div align="center">
+  
+  <!-- Gráfico de Top Languages -->
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioaugustomazzochi&layout=compact&theme=radical"/>
 </div>
