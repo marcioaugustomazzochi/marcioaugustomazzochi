@@ -56,7 +56,7 @@ Atuação voltada para:
 
 📌 Reconhecimento • Enumeração • Exploração • Pós-exploração  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
