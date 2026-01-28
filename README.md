@@ -56,7 +56,7 @@ Atuação voltada para:
 
 📌 Reconhecimento • Enumeração • Exploração • Pós-exploração  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzocchi)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi)
 
 ---
 
@@ -64,7 +64,7 @@ Atuação voltada para:
 **Descrição:** Automatização de tarefas de segurança e apoio a análises técnicas, respeitando princípios de segurança, privacidade e conformidade.
 
 📌 Projeto em desenvolvimento  
-➡️ [Ver repositórios](https://github.com/marcioaugustomazzocchi)
+➡️ [Ver repositórios](https://github.com/marcioaugustomazzochi)
 
 ---
 
@@ -78,10 +78,8 @@ Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal, em c
 
 ## 📫 Contato
 
-[linkedin.com/in/marcioaugustomazzochi](https://www.linkedin.com/in/marcioaugustomazzochi)
-
-[marciomazzochi@gmail.com](mailto:marciomazzochi@gmail.com)
-
-[github.com/marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
+LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi  
+📧 E-mail: marciomazzochi@gmail.com  
+🐙 GitHub: https://github.com/marcioaugustomazzochi
 
 ⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.*
