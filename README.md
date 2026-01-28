@@ -27,7 +27,7 @@ Atuação voltada para:
 
 ## 🔐 Áreas de Interesse
 
-- Information Security
+- Segurança da Informação
 - Cibersegurança  
 - Privacidade e Proteção de Dados  
 - Gestão de Riscos  
