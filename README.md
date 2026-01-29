@@ -68,6 +68,25 @@ Atuação voltada para:
 
 ---
 
+## 🔍 Analisador de Ameaças por E-mail
+
+### Descrição
+Este projeto tem como objetivo fornecer uma análise técnica detalhada de e-mails suspeitos, ajudando a identificar possíveis ataques de phishing e outras ameaças. Ele utiliza ferramentas de segurança como análise manual, ferramentas de verificação de links, e verificação de domínios.
+
+### Objetivo
+Identificar indicadores comuns de phishing em e-mails para proteger os usuários contra fraudes e roubo de dados.
+
+### Principais Funcionalidades
+- Identificação de links maliciosos.
+- Verificação de remetentes suspeitos.
+- Detecção de técnicas de engenharia social (urgência, pressões psicológicas).
+- Ferramentas para análise automatizada de e-mails suspeitos.
+
+---
+  
+📌 **Projeto em Desenvolvimento**  
+➡️ Ver repositório [aqui](https://github.com/marcioaugustomazzochi/analisador-de-ameacas-por-e-mail)
+
 ## ⚠️ Aviso Ético
 
 Todos os projetos apresentados são realizados **exclusivamente para fins educacionais**, em ambientes controlados e com autorização.
