@@ -79,7 +79,7 @@ Minha trajetória se baseia na aplicação de **boas práticas em ambientes cont
 - **Análise de técnicas de engenharia social** (urgência, pressões psicológicas)
 - Ferramentas para **análise automatizada** de e-mails suspeitos
 
-➡️ [Repositório principal de Márcio Augusto Mazzochi](https://github.com/marcioaugustomazzochi/marcioaugustomazzochi)
+➡️ [Analisador de Ameaças por E-mail](https://github.com/marcioaugustomazzochi/analisador-de-ameacas-por-e-mail)
 
 ---
 
