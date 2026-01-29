@@ -82,10 +82,12 @@ Identificar indicadores comuns de phishing em e-mails para proteger os usuários
 - Detecção de técnicas de engenharia social (urgência, pressões psicológicas).
 - Ferramentas para análise automatizada de e-mails suspeitos.
 
----
-  
+---  
+
 📌 **Projeto em Desenvolvimento**  
 ➡️ Ver repositório [aqui](https://github.com/marcioaugustomazzochi/analisador-de-ameacas-por-e-mail)
+
+---
 
 ## ⚠️ Aviso Ético
 
@@ -107,8 +109,6 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
 
 ## 📊 Métricas Visuais do GitHub
 
-## 📊 Métricas Visuais do GitHub
-
 <div align="center">
   <!-- Gráfico de stats gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=marcioaugustomazzochi&show_icons=true&theme=radical"/>
@@ -122,4 +122,5 @@ LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi
   <!-- Gráfico de contribuições -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcioaugustomazzochi&theme=radical"/>
 </div>
- 
+
+---
