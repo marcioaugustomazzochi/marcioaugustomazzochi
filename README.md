@@ -11,15 +11,17 @@
 
 ## 🎯 Sobre mim
 
-Profissional de **Segurança da Informação, Cibersegurança, Privacidade e Proteção de Dados**, com foco em aprendizado prático, projetos hands-on e aplicação de boas práticas em ambientes controlados e alinhados à conformidade.
+Sou **profissional de Segurança da Informação**, com forte ênfase em **Cibersegurança**, **Privacidade** e **Proteção de Dados**. Acredito que a excelência em segurança é alcançada através de **prática constante**, **ética profissional** e **aprendizado aplicado**.
 
-Atuação voltada para:
+Minha trajetória se baseia na aplicação de **boas práticas em ambientes controlados**, com foco no desenvolvimento de soluções práticas, alinhadas à conformidade regulatória, especialmente a **LGPD**. Sou apaixonado por **projetos hands-on**, onde posso experimentar e solucionar desafios do mundo real.
 
-- Segurança da Informação aplicada  
-- Privacidade e Proteção de Dados (LGPD)  
-- Laboratórios práticos (Kali Linux, Metasploit, VirtualBox)  
-- Projetos técnicos e documentação  
-- Aprendizado contínuo, ética profissional e conformidade  
+### Principais Áreas de Atuação:
+- **Segurança da Informação Aplicada**
+- **Cibersegurança e Governança de Riscos (GRC)**
+- **Privacidade e Proteção de Dados** (LGPD)
+- **Pentest e Auditoria de Segurança** (Kali Linux, Metasploit, VirtualBox)
+- **Automação de Tarefas de Segurança** (Scripts Python)
+- **Gestão de Riscos e Conformidade Regulatória**
 
 > *"A excelência em segurança vem da prática constante, ética profissional e aprendizado aplicado."*
 
@@ -27,24 +29,24 @@ Atuação voltada para:
 
 ## 🔐 Áreas de Interesse
 
-- Segurança da Informação
-- Cibersegurança  
-- Privacidade e Proteção de Dados  
-- Gestão de Riscos  
-- Governança, Riscos e Compliance (GRC)  
-- Pentest em ambientes controlados  
+- **Segurança da Informação e Cibersegurança**
+- **Gestão de Riscos e Governança (GRC)**
+- **Privacidade e Proteção de Dados**
+- **Automação de Segurança com Python**
+- **Pentest e Testes de Vulnerabilidade**
+- **Análise de Ameaças e Forense Digital**
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Tecnólogo em Segurança da Informação** – UNIP (2024)  
-- **MBA em Cibersegurança e Gestão de Riscos** – em andamento  
+- **Tecnólogo em Segurança da Informação** – UNIP (2024)
+- **MBA em Cibersegurança e Gestão de Riscos** – Em andamento
 
 ### 📘 Formações Complementares
 
-- Técnico em Administração – CPET  
-- Técnico em Logística – CPET  
+- **Técnico em Administração** – CPET  
+- **Técnico em Logística** – CPET  
 
 ---
 
@@ -52,58 +54,49 @@ Atuação voltada para:
 
 ### 🔹 Laboratório Prático de Pentest
 **Tecnologias:** Kali Linux • Metasploitable • VirtualBox  
-**Descrição:** Testes práticos de vulnerabilidades em ambiente isolado e autorizado, seguindo metodologia de Pentest e boas práticas de Segurança da Informação.
+**Descrição:** Este projeto proporciona um ambiente controlado e autorizado para a execução de testes de **Penetração (Pentest)**, onde são exploradas vulnerabilidades em sistemas simulados. O foco é aplicar a metodologia de Pentest: **Reconhecimento, Enumeração, Exploração e Pós-exploração**, utilizando as ferramentas mais comuns da indústria.
 
-📌 Reconhecimento • Enumeração • Exploração • Pós-exploração  
-
+📌 **Fases:** Reconhecimento • Enumeração • Exploração • Pós-exploração  
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
 ### 🔹 Scripts Python para Automação de Segurança
-**Descrição:** Automatização de tarefas de segurança e apoio a análises técnicas, respeitando princípios de segurança, privacidade e conformidade.
+**Descrição:** Automação de processos de segurança, como **varreduras de vulnerabilidades**, **coleta de dados de ameaças** e **análise de tráfego**, utilizando **Python**. O projeto visa otimizar a resposta a incidentes de segurança e facilitar análises técnicas, respeitando as melhores práticas de **privacidade** e **conformidade**.
 
-📌 Projeto em desenvolvimento  
-➡️ [Ver repositórios](https://github.com/marcioaugustomazzochi)
+📌 **Projeto em desenvolvimento**  
+➡️ [Ver repositórios no GitHub](https://github.com/marcioaugustomazzochi)
 
 ---
 
-## 🔍 Analisador de Ameaças por E-mail
+### 🔍 Analisador de Ameaças por E-mail
 
-### Descrição
-Este projeto tem como objetivo fornecer uma análise técnica detalhada de e-mails suspeitos, ajudando a identificar possíveis ataques de phishing e outras ameaças. Ele utiliza ferramentas de segurança como análise manual, ferramentas de verificação de links, e verificação de domínios.
+**Descrição:** Este projeto tem como objetivo fornecer uma **análise técnica detalhada** de e-mails suspeitos, com foco na identificação de **ataques de phishing** e **fraudes digitais**. Através de ferramentas e análise manual, é possível identificar **links maliciosos**, **domínios falsificados** e **indicadores de engenharia social** em e-mails.
 
-### Objetivo
-Identificar indicadores comuns de phishing em e-mails para proteger os usuários contra fraudes e roubo de dados.
+### Objetivos Principais:
+- **Identificação de links maliciosos** e **domínios falsificados**
+- **Verificação de remetentes suspeitos**
+- **Análise de técnicas de engenharia social** (urgência, pressões psicológicas)
+- Ferramentas para **análise automatizada** de e-mails suspeitos
 
-### Principais Funcionalidades
-- Identificação de links maliciosos.
-- Verificação de remetentes suspeitos.
-- Detecção de técnicas de engenharia social (urgência, pressões psicológicas).
-- Ferramentas para análise automatizada de e-mails suspeitos.
-
----  
-
-📌 **Projeto em Desenvolvimento**  
-➡️ Ver repositório [aqui](https://github.com/marcioaugustomazzochi/analisador-de-ameacas-por-e-mail)
+➡️ [Ver repositório do projeto no GitHub](https://github.com/marcioaugustomazzochi/analisador-de-ameacas-por-e-mail)
 
 ---
 
 ## ⚠️ Aviso Ético
 
-Todos os projetos apresentados são realizados **exclusivamente para fins educacionais**, em ambientes controlados e com autorização.
-
-Nenhuma técnica deve ser aplicada em sistemas reais sem permissão formal, em conformidade com princípios de **Segurança da Informação, Privacidade e Proteção de Dados**.
+Todos os projetos aqui descritos são realizados **exclusivamente para fins educacionais** e em **ambientes controlados e autorizados**.  
+Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**, em conformidade com os princípios de **Segurança da Informação**, **Privacidade** e **Proteção de Dados**.
 
 ---
 
 ## 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/marcioaugustomazzochi  
-📧 E-mail: marciomazzochi@gmail.com  
-🐙 GitHub: https://github.com/marcioaugustomazzochi
+- **LinkedIn:** [marcioaugustomazzochi](https://www.linkedin.com/in/marcioaugustomazzochi)  
+- **E-mail:** [marciomazzochi@gmail.com](mailto:marciomazzochi@gmail.com)  
+- **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
-⭐ *Este perfil documenta minha evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.*
+⭐ *Este perfil documenta minha evolução contínua em **Segurança da Informação**, **Cibersegurança** e **Proteção de Dados**.*
 
 ---
 
