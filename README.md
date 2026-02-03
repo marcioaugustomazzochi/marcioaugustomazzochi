@@ -72,7 +72,6 @@ Minha trajetória se baseia na aplicação de **boas práticas em ambientes cont
 3. **Análise de Protocolos Específicos:** SMB, NFS, FTP e HTTP.
 4. **Coleta de Evidências:** geração de prints, logs e relatórios técnicos automatizados.
 
-📌 **Projeto concluído**  
 ➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
