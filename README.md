@@ -62,7 +62,7 @@ Minha trajetória se baseia na aplicação de **boas práticas em ambientes cont
 ---
 
 ### 🔹 Scripts Python para Automação de Segurança
-**Descrição:** Projeto concluído de automação de processos de segurança utilizando Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede. Desenvolvido em laboratório controlado, o projeto melhora a resposta a incidentes de segurança, gera evidências técnicas reais e segue as melhores práticas de privacidade e conformidade (LGPD).
+**Descrição:** Projeto de automação de processos de segurança utilizando Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede. Desenvolvido em laboratório controlado, o projeto melhora a resposta a incidentes de segurança, gera evidências técnicas reais e segue as melhores práticas de privacidade e conformidade (LGPD).
 
 **Objetivo:** Automatizar tarefas de segurança ofensiva e defensiva, integrando ferramentas como Nmap e Scapy, e facilitar análises técnicas com evidências reproduzíveis.
 
