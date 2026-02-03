@@ -62,8 +62,17 @@ Minha trajetória se baseia na aplicação de **boas práticas em ambientes cont
 ---
 
 ### 🔹 Scripts Python para Automação de Segurança
-**Descrição:** Automação de processos de segurança, como **varreduras de vulnerabilidades**, **coleta de dados de ameaças** e **análise de tráfego**, utilizando **Python**. O projeto visa otimizar a resposta a incidentes de segurança e facilitar análises técnicas, respeitando as melhores práticas de **privacidade** e **conformidade**.
+**Descrição:** Projeto concluído de automação de processos de segurança utilizando Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede. Desenvolvido em laboratório controlado, o projeto melhora a resposta a incidentes de segurança, gera evidências técnicas reais e segue as melhores práticas de privacidade e conformidade (LGPD).
 
+**Objetivo:** Automatizar tarefas de segurança ofensiva e defensiva, integrando ferramentas como Nmap e Scapy, e facilitar análises técnicas com evidências reproduzíveis.
+
+**Fases do Projeto:**
+1. **Varredura de Vulnerabilidades:** descoberta automatizada de portas abertas e serviços.
+2. **Enumeração Avançada de Serviços:** coleta de versões, banners e dados de serviços críticos.
+3. **Análise de Protocolos Específicos:** SMB, NFS, FTP e HTTP.
+4. **Coleta de Evidências:** geração de prints, logs e relatórios técnicos automatizados.
+
+📌 **Projeto concluído**  
 ➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
