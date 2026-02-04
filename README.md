@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou Marcio Augusto Mazzochi
+# Olá, eu sou Marcio Augusto Mazzochi
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Hands--on-red)
 ![Privacy](https://img.shields.io/badge/Privacy-Protection-lightgrey)
+![Segurança da Informação](https://img.shields.io/badge/SI-Security-blueviolet)
 
 ---
 
