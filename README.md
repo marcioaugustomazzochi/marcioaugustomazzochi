@@ -1,4 +1,4 @@
-# Olá, eu sou Marcio Augusto Mazzochi
+# 👋 Olá, eu sou Marcio Augusto Mazzochi
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
@@ -57,7 +57,7 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 **📌 Fases:**  
 Reconhecimento • Enumeração • Exploração • Pós-exploração  
 
-➡️ [Ver projeto no GitHub](#)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
@@ -72,7 +72,7 @@ Reconhecimento • Enumeração • Exploração • Pós-exploração
 - Análise de Protocolos Específicos: SMB, NFS, FTP e HTTP  
 - Coleta de Evidências: geração de impressões, registros e relatórios técnicos automatizados  
 
-➡️ [Ver repositório no GitHub](#)  
+➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
 
@@ -85,7 +85,7 @@ Reconhecimento • Enumeração • Exploração • Pós-exploração
 - Análise de técnicas de engenharia social (urgência, pressões psicológicas)  
 - Ferramentas para análise automatizada de e-mails suspeitos  
 
-➡️ [Ver projeto](#)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
 
 ---
 
