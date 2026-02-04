@@ -96,7 +96,7 @@ Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**,
 ---
 
 ## 📫 Contato
-- **LinkedIn:** [marcioaugustomazzochi](https://www.linkedin.com/in/marcioaugustomazzochi)  
+- **LinkedIn:** https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/
 - **E-mail:** marciomazzochi@gmail.com  
 - **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)  
 
