@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcio Augusto Mazzochi
+# Olá, eu sou Marcio Augusto Mazzochi
 
 ![Linux](https://img.shields.io/badge/Linux-Kali-blue)
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
