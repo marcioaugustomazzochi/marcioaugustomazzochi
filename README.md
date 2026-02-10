@@ -52,6 +52,7 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ### 🔹 Laboratório Prático de Pentest
 **Tecnologias:** Kali Linux • Metasploitable • VirtualBox  
+
 **Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados. Aplicação da metodologia completa: Reconhecimento → Enumeração → Exploração → Pós-exploração.  
 
 **📌 Fases:**  
@@ -67,27 +68,48 @@ Reconhecimento • Enumeração • Exploração • Pós-exploração
 **Objetivo:** Automatizar tarefas de segurança ofensiva e defensiva, integrando ferramentas como **Nmap** e **Scapy**, e facilitar análises técnicas com evidências reproduzíveis.
 
 **Fases do Projeto:**  
-- Varredura de Vulnerabilidades: descoberta de portas abertas e serviços  
-- Enumeração Avançada de Serviços: coleta de versões, banners e dados críticos  
-- Análise de Protocolos Específicos: SMB, NFS, FTP e HTTP  
-- Coleta de Evidências: geração de impressões, registros e relatórios técnicos automatizados  
+- Varredura de Vulnerabilidades  
+- Enumeração Avançada de Serviços  
+- Análise de Protocolos Específicos  
+- Coleta de Evidências  
 
 ➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
 
-### 🔍 Analisador de Ameaças por E-mail
+### 🔹 Analisador de Ameaças por E-mail
 **Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando **ataques de phishing** e fraudes digitais. Ferramentas e análises manuais para identificar links maliciosos, domínios falsificados e indicadores de engenharia social.  
 
 **Objetivos:**  
-- Identificação de links maliciosos e domínios falsificados  
+- Identificação de links maliciosos  
 - Verificação de remetentes suspeitos  
-- Análise de técnicas de engenharia social (urgência, pressões psicológicas)  
-- Ferramentas para análise automatizada de e-mails suspeitos  
+- Análise de técnicas de engenharia social  
+- Automação na análise de e-mails  
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
 
 ---
+
+### 🔹 Laboratório Credential Dump & Webshell Attack
+**Tecnologias:** Kali Linux • Metasploitable 2 • VirtualBox • WebDAV  
+
+**Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades **WebDAV**, upload de **WebShell**, **execução remota de comandos (RCE)** e **extração de credenciais**. Projeto executado em ambiente isolado e autorizado para fins educacionais.  
+
+**📌 Fases:**  
+- Reconhecimento e Verificação de Conectividade  
+- Enumeração de Portas e Serviços  
+- Descoberta de Diretórios Sensíveis  
+- Exploração e Upload de WebShell  
+- Execução Remota de Comandos (RCE)  
+- Extração e Análise de Credenciais  
+- Análise de Impacto e Recomendações  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)
+
+---
+
+
+
 
 ## ⚠️ Aviso Ético
 Todos os projetos descritos são realizados **exclusivamente para fins educacionais** e em **ambientes controlados e autorizados**.  
