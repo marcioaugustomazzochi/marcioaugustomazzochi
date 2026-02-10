@@ -30,7 +30,7 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ## ⚡ Áreas de Interesse
 - Segurança da Informação e Cibersegurança  
-- Gestão de Riscos e Governança (GRC)  
+- Gestão de Riscos Governaça e Compliance (GRC)  
 - Privacidade e Proteção de Dados  
 - Automação de Segurança com Python  
 - Pentest e Testes de Vulnerabilidade  
