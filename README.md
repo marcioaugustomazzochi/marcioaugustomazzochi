@@ -50,50 +50,59 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ## 🚀 Projetos em destaque
 
-### 🔹 Laboratório Prático de Pentest
-**Tecnologias:** Kali Linux • Metasploitable • VirtualBox  
+### 🔹 **Laboratório Prático de Pentest**
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
 
-**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados. Aplicação da metodologia completa: Reconhecimento → Enumeração → Exploração → Pós-exploração.  
+**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
 
 **📌 Fases:**  
-Reconhecimento • Enumeração • Exploração • Pós-exploração  
+- Reconhecimento  
+- Enumeração  
+- Exploração  
+- Pós-exploração  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)  
 
 ---
 
-### 🔹 Scripts Python para Automação de Segurança
-**Descrição:** Automação de processos de segurança com Python, incluindo **varredura de vulnerabilidades**, **coleta de dados de ameaças** e **análise de tráfego de rede**. Desenvolvido em laboratório controlado, melhora a resposta a incidentes de segurança, gera evidências técnicas e segue as melhores práticas de privacidade e conformidade (LGPD).  
+### 🔹 **Scripts Python para Automação de Segurança**
+![Python](https://img.shields.io/badge/Python-Scripting-yellow)
 
-**Objetivo:** Automatizar tarefas de segurança ofensiva e defensiva, integrando ferramentas como **Nmap** e **Scapy**, e facilitar análises técnicas com evidências reproduzíveis.
+**Descrição:** Automação de processos de segurança com Python, incluindo **varredura de vulnerabilidades**, **coleta de dados de ameaças** e **análise de tráfego de rede**.  
 
-**Fases do Projeto:**  
+**📌 Objetivos e Fases:**  
 - Varredura de Vulnerabilidades  
 - Enumeração Avançada de Serviços  
-- Análise de Protocolos Específicos  
-- Coleta de Evidências  
+- Análise de Protocolos Específicos (SMB, NFS, FTP, HTTP)  
+- Coleta de Evidências e Relatórios Automáticos  
 
-➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
+➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)  
 
 ---
 
-### 🔹 Analisador de Ameaças por E-mail
-**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando **ataques de phishing** e fraudes digitais. Ferramentas e análises manuais para identificar links maliciosos, domínios falsificados e indicadores de engenharia social.  
+### 🔹 **Analisador de Ameaças por E-mail**
+![Email](https://img.shields.io/badge/Email-Threats-blueviolet)
 
-**Objetivos:**  
-- Identificação de links maliciosos  
+**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando **ataques de phishing** e fraudes digitais.  
+
+**📌 Objetivos:**  
+- Identificação de links maliciosos e domínios falsificados  
 - Verificação de remetentes suspeitos  
 - Análise de técnicas de engenharia social  
 - Automação na análise de e-mails  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)  
 
 ---
 
-### 🔹 Laboratório Credential Dump & Webshell Attack
-**Tecnologias:** Kali Linux • Metasploitable 2 • VirtualBox • WebDAV  
+### 🔹 **Laboratório Credential Dump & Webshell Attack**
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
+![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
 
-**Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades **WebDAV**, upload de **WebShell**, **execução remota de comandos (RCE)** e **extração de credenciais**. Projeto executado em ambiente isolado e autorizado para fins educacionais.  
+**Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades **WebDAV**, upload de **WebShell**, **execução remota de comandos (RCE)** e **extração de credenciais**.  
 
 **📌 Fases:**  
 - Reconhecimento e Verificação de Conectividade  
@@ -104,24 +113,18 @@ Reconhecimento • Enumeração • Exploração • Pós-exploração
 - Extração e Análise de Credenciais  
 - Análise de Impacto e Recomendações  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)  
 
 ---
 
-
-
-
 ## ⚠️ Aviso Ético
-Todos os projetos descritos são realizados **exclusivamente para fins educacionais** e em **ambientes controlados e autorizados**.  
-Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**, em conformidade com os princípios de **Segurança da Informação, Privacidade e Proteção de Dados**.
+Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
 
 ---
 
 ## 📫 Contato
-- **LinkedIn:** https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/
+- **LinkedIn:** [Marcio Augusto Mazzochi](https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/)  
 - **E-mail:** marciomazzochi@gmail.com  
 - **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)  
 
-⭐ Este perfil documenta minha evolução contínua em **Segurança da Informação**, **Cibersegurança** e **Proteção de Dados**.
-
----
+⭐ Perfil documenta evolução contínua em **Segurança da Informação**, **Cibersegurança** e **Proteção de Dados**.
