@@ -117,6 +117,24 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ---
 
+### 🔹 **Sistema de Classificação de Dados com RBAC**
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
+![RBAC](https://img.shields.io/badge/Security-RBAC-green)
+
+**Descrição:** Sistema de governança de dados que integra **classificação automática de documentos**, **controle de acesso baseado em papéis (RBAC)**, **avaliação de risco** e **auditoria de acessos**, totalmente automatizado em Python.  
+
+**📌 Funcionalidades principais:**  
+- Classificação de arquivos: Interno, Confidencial e Restrito  
+- Avaliação de risco: níveis Médio, Alto e Crítico  
+- Controle de acesso RBAC: Diretor, Analista e Estagiário  
+- Auditoria e relatórios detalhados  
+- Estrutura organizada de diretórios para dados, relatórios e evidências  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)
+
+---
+
 ## ⚠️ Aviso Ético
 Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
 
