@@ -135,6 +135,24 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ---
 
+### 🔹 **LGPD Scanner**
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
+![Automation](https://img.shields.io/badge/Automation-Python-yellow)
+
+**Descrição:** Ferramenta desenvolvida em Python para **identificação automática de dados sensíveis**, como **emails, CPFs e números de cartão de crédito**, com geração de **relatórios CSV** e **gráficos estatísticos** para apoiar a conformidade com a **LGPD**.
+
+**📌 Funcionalidades principais:**  
+- Varredura automática de arquivos de texto  
+- Identificação de padrões via **Expressões Regulares (Regex)**  
+- Classificação de nível de risco  
+- Geração de **relatórios estruturados**  
+- Criação de **gráficos estatísticos**  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-scanner)
+
+---
+
 ## ⚠️ Aviso Ético
 Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
 
