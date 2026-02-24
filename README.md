@@ -9,7 +9,7 @@
 
 ---
 
-## 📑 Sumário
+## **Sumário**
 - [Sobre mim](#sobre-mim)
 - [Áreas de Atuação](#áreas-de-atuacao)
 - [Áreas de Interesse](#áreas-de-interesse)
@@ -27,16 +27,16 @@
 
 ---
 
-## Sobre mim
-Profissional de **Segurança da Informação** com forte atuação em **Cibersegurança**, **Privacidade** e **Proteção de Dados**. Combinando **prática constante, rigor ético e aprendizado aplicado**, desenvolvo soluções robustas alinhadas à **LGPD** e boas práticas de segurança.
+## **Sobre mim**
+Profissional de Segurança da Informação com forte atuação em Cibersegurança, Privacidade e Proteção de Dados. Combinando prática constante, rigor ético e aprendizado aplicado, desenvolvo soluções robustas alinhadas à LGPD e às melhores práticas de segurança.
 
-Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, resolvendo desafios complexos e promovendo **segurança efetiva e confiável**.
+Especialista em projetos hands-on, aplico conhecimentos em cenários reais, resolvendo desafios complexos e promovendo segurança efetiva e confiável.
 
 ---
 
-## Áreas de Atuação
+## **Áreas de Atuação**
 - 🔐 Segurança da Informação Aplicada  
-- 🛡️ Cibersegurança e **Governança, Riscos e Compliance (GRC)**  
+- 🛡️ Cibersegurança e Governança, Riscos e Compliance (GRC)  
 - 🔏 Privacidade e Proteção de Dados (LGPD)  
 - 🖥️ Pentest e Auditoria de Segurança (Kali Linux, Metasploit, VirtualBox)  
 - 🤖 Automação de Tarefas de Segurança (Scripts Python)  
@@ -46,7 +46,7 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-## Áreas de Interesse
+## **Áreas de Interesse**
 - 🛡️ Segurança da Informação e Cibersegurança  
 - 📊 Gestão de Riscos e Compliance (GRC)  
 - 🔏 Privacidade e Proteção de Dados  
@@ -56,28 +56,28 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-## Formação Acadêmica
+## **Formação Acadêmica**
 - 🎓 Tecnólogo em Segurança da Informação – UNIP (2024)  
 - 🎓 MBA em Cibersegurança e Gestão de Riscos – Em andamento  
 
-### Formações Complementares
+### **Formações Complementares**
 - 📘 Técnico em Administração – CPET  
 - 📘 Técnico em Logística – CPET  
 
 ---
 
-## Projetos em Destaque
+## **Projetos em Destaque**
 
-### 🔹 Laboratório Prático de Pentest
+### 🔹 **Laboratório Prático de Pentest**
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 
-**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
+Descrição: Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
 
-**Fases:**  
+Fases:  
 - 🔎 Reconhecimento  
 - 📂 Enumeração  
 - 💥 Exploração  
@@ -87,14 +87,14 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 Scripts Python para Automação de Segurança
+### 🔹 **Scripts Python para Automação de Segurança**
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/python-security-automation?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/python-security-automation?style=social)
 
-**Descrição:** Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
+Descrição: Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
 
-**Objetivos e Fases:**  
+Objetivos e Fases:  
 - 🔎 Varredura de Vulnerabilidades  
 - 📂 Enumeração Avançada de Serviços  
 - 🖥️ Análise de Protocolos (SMB, NFS, FTP, HTTP)  
@@ -104,14 +104,14 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 Analisador de Ameaças por E-mail
+### 🔹 **Analisador de Ameaças por E-mail**
 ![Email](https://img.shields.io/badge/Email-Threats-blueviolet?logo=gmail)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/email-threat-analyzer?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/email-threat-analyzer?style=social)
 
-**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
+Descrição: Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
 
-**Objetivos:**  
+Objetivos:  
 - 🔗 Identificação de links maliciosos  
 - 📧 Verificação de remetentes suspeitos  
 - 🕵️ Análise de engenharia social  
@@ -121,16 +121,16 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 Laboratório Credential Dump & Webshell Attack
+### 🔹 **Laboratório Credential Dump & Webshell Attack**
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 
-**Descrição:** Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
+Descrição: Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
 
-**Fases:**  
+Fases:  
 - 🔎 Reconhecimento e Verificação de Conectividade  
 - 📂 Enumeração de Portas e Serviços  
 - 🔐 Descoberta de Diretórios Sensíveis  
@@ -143,16 +143,16 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 Sistema de Classificação de Dados com RBAC
+### 🔹 **Sistema de Classificação de Dados com RBAC**
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
 
-**Descrição:** Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
+Descrição: Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
 
-**Funcionalidades principais:**  
+Funcionalidades principais:  
 - 📁 Classificação de arquivos: Interno, Confidencial e Restrito  
 - ⚠️ Avaliação de risco: Médio, Alto e Crítico  
 - 🔐 Controle de acesso RBAC  
@@ -163,16 +163,16 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 LGPD Scanner
+### 🔹 **LGPD Scanner**
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/lgpd-scanner?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/lgpd-scanner?style=social)
 
-**Descrição:** Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
+Descrição: Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
 
-**Funcionalidades principais:**  
+Funcionalidades principais:  
 - 🔎 Varredura automática de arquivos de texto  
 - 📝 Identificação de padrões via Regex  
 - ⚠️ Classificação de nível de risco  
@@ -183,7 +183,7 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-### 🔹 Laboratório de Phishing Educativo
+### 🔹 **Laboratório de Phishing Educativo**
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-2.3-orange?logo=flask)
 ![SQLite](https://img.shields.io/badge/SQLite-3.41-lightgrey?logo=sqlite)
@@ -193,9 +193,9 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 
-**Descrição:** Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
+Descrição: Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
 
-**Funcionalidades:**  
+Funcionalidades:  
 - 📄 Geração automática de páginas educativas  
 - ✉️ Simulação controlada de envio de e-mails  
 - 🗂 Registro de interações em CSV e SQLite  
@@ -207,14 +207,14 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ---
 
-## Aviso Ético
-Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
+## **Aviso Ético**
+Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
 
 ---
 
-## Contato
-- **LinkedIn:** [Marcio Augusto Mazzochi](https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/)  
-- **E-mail:** marciomazzochi@gmail.com  
-- **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
+## **Contato**
+- LinkedIn: [Marcio Augusto Mazzochi](https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/)  
+- E-mail: marciomazzochi@gmail.com  
+- GitHub: [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
-⭐ Perfil documenta evolução contínua em **Segurança da Informação**, **Cibersegurança** e **Proteção de Dados**.
+⭐ Perfil documenta evolução contínua em Segurança da Informação, Cibersegurança e Proteção de Dados.
