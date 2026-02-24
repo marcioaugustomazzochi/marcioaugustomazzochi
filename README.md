@@ -173,7 +173,7 @@ Laboratório seguro para simulação educativa de engenharia social e campanhas 
 - Geração de relatórios para análise  
 - Modelos personalizáveis  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/laboratorio-de-phishing-educativo)
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)
 
 ---
 
