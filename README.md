@@ -75,15 +75,11 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 
-**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
+**Descrição:** Ambiente controlado para execução de Pentest em sistemas simulados.  
 
-**Fases:**  
-- 🔎 Reconhecimento  
-- 📂 Enumeração  
-- 💥 Exploração  
-- 📝 Pós-exploração  
+**Fases:** 🔎 Reconhecimento | 📂 Enumeração | 💥 Exploração | 📝 Pós-exploração  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
@@ -92,15 +88,11 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/python-security-automation?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/python-security-automation?style=social)
 
-**Descrição:** Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
+**Descrição:** Automação de segurança em Python: varredura de vulnerabilidades, coleta de dados e análise de tráfego.  
 
-**Objetivos e Fases:**  
-- 🔎 Varredura de Vulnerabilidades  
-- 📂 Enumeração Avançada de Serviços  
-- 🖥️ Análise de Protocolos (SMB, NFS, FTP, HTTP)  
-- 📝 Coleta de Evidências e Relatórios Automáticos  
+**Fases:** 🔎 Varredura | 📂 Enumeração | 🖥️ Análise de Protocolos | 📝 Relatórios  
 
-➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
 
@@ -109,15 +101,11 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/email-threat-analyzer?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/email-threat-analyzer?style=social)
 
-**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
+**Descrição:** Identificação de ataques de phishing e fraudes digitais em e-mails.  
 
-**Objetivos:**  
-- 🔗 Identificação de links maliciosos  
-- 📧 Verificação de remetentes suspeitos  
-- 🕵️ Análise de engenharia social  
-- 🤖 Automação na análise de e-mails  
+**Fases:** 🔗 Links maliciosos | 📧 Remetentes suspeitos | 🕵️ Engenharia social | 🤖 Automação  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
 
 ---
 
@@ -128,18 +116,9 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 
-**Descrição:** Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
+**Descrição:** Exploração de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos e extração de credenciais.  
 
-**Fases:**  
-- 🔎 Reconhecimento e Verificação de Conectividade  
-- 📂 Enumeração de Portas e Serviços  
-- 🔐 Descoberta de Diretórios Sensíveis  
-- 💥 Exploração e Upload de WebShell  
-- 🖥️ Execução Remota de Comandos (RCE)  
-- 📝 Extração e Análise de Credenciais  
-- ⚠️ Análise de Impacto e Recomendações  
-
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)
 
 ---
 
@@ -147,19 +126,14 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-com-rbac?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/sistema-classificacao-dados-com-rbac?style=social)
 
-**Descrição:** Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
+**Descrição:** Sistema de governança de dados com classificação automática e controle de acesso RBAC.  
 
-**Funcionalidades principais:**  
-- 📁 Classificação de arquivos: Interno, Confidencial e Restrito  
-- ⚠️ Avaliação de risco: Médio, Alto e Crítico  
-- 🔐 Controle de acesso RBAC  
-- 📝 Auditoria e relatórios detalhados  
-- 🗂 Estrutura organizada de diretórios para dados, relatórios e evidências  
+**Funcionalidades:** 📁 Classificação | ⚠️ Avaliação de risco | 🔐 Controle de acesso | 📝 Auditoria  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)
 
 ---
 
@@ -170,16 +144,9 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/lgpd-scanner?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/lgpd-scanner?style=social)
 
-**Descrição:** Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
+**Descrição:** Identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.  
 
-**Funcionalidades principais:**  
-- 🔎 Varredura automática de arquivos de texto  
-- 📝 Identificação de padrões via Regex  
-- ⚠️ Classificação de nível de risco  
-- 📊 Relatórios estruturados  
-- 📈 Gráficos estatísticos  
-
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-scanner)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/lgpd-scanner)
 
 ---
 
@@ -193,17 +160,9 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 ![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 
-**Descrição:** Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
+**Descrição:** Laboratório seguro para simulação educativa de engenharia social e phishing, com análise de logs, captura de screenshots e relatórios automáticos.  
 
-**Funcionalidades:**  
-- 📄 Geração automática de páginas educativas  
-- ✉️ Simulação controlada de envio de e-mails  
-- 🗂 Registro de interações em CSV e SQLite  
-- 📸 Captura automatizada de screenshots  
-- 📊 Geração de relatórios para análise  
-- 📝 Modelos personalizáveis  
-
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)
+[🔗 Ver projeto](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)
 
 ---
 
