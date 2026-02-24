@@ -72,6 +72,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 
 **Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.
 
@@ -81,16 +83,14 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 - Exploração  
 - Pós-exploração  
 
-**Evidências (placeholders):**  
-![Execução 1](https://via.placeholder.com/500x300?text=Execucao+Pentest+1)  
-![Execução 2](https://via.placeholder.com/500x300?text=Execucao+Pentest+2)  
-
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
 ### Scripts Python para Automação de Segurança
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/python-security-automation?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/python-security-automation?style=social)
 
 **Descrição:** Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.
 
@@ -106,6 +106,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ### Analisador de Ameaças por E-mail
 ![Email](https://img.shields.io/badge/Email-Threats-blueviolet)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/email-threat-analyzer?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/email-threat-analyzer?style=social)
 
 **Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.
 
@@ -123,6 +125,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 
 **Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
 
@@ -143,6 +147,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
 
 **Descrição:** Sistema de governança de dados que integra classificação automática de documentos, controle de acesso baseado em papéis (RBAC), avaliação de risco e auditoria de acessos.
 
@@ -161,6 +167,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/lgpd-scanner?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/lgpd-scanner?style=social)
 
 **Descrição:** Ferramenta desenvolvida em Python para identificação automática de dados sensíveis, como emails, CPFs e números de cartão de crédito, com geração de relatórios CSV e gráficos estatísticos.
 
@@ -182,6 +190,8 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 ![HTML](https://img.shields.io/badge/HTML5-E34F26-red)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6-blue)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/phishing-lab-educativo?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 
 **Descrição:** Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, permitindo análise de logs, captura de screenshots e geração de relatórios automáticos.
 
