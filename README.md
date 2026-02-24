@@ -153,7 +153,31 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ---
 
-## ⚠️ Aviso Ético
+### 🔹 Laboratório de Phishing Educativo
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3-orange)
+![SQLite](https://img.shields.io/badge/SQLite-3.41-lightgrey)
+![HTML](https://img.shields.io/badge/HTML5-E34F26-red)
+![CSS](https://img.shields.io/badge/CSS3-1572B6-blue)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
+
+**Descrição:**  
+Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, permitindo análise de logs, captura de screenshots e geração de relatórios automáticos.  
+
+**Funcionalidades:**
+- Geração automática de páginas educativas  
+- Simulação controlada de envio de e-mails  
+- Registro de interações em CSV e SQLite  
+- Captura automatizada de screenshots  
+- Geração de relatórios para análise  
+- Modelos personalizáveis  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/laboratorio-de-phishing-educativo)## 
+
+---
+
+⚠️ Aviso Ético
 Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
 
 ---
