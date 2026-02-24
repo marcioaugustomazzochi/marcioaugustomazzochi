@@ -36,7 +36,7 @@ Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, 
 
 ## Áreas de Atuação
 - 🔐 Segurança da Informação Aplicada  
-- 🛡️ Cibersegurança e Governança de Riscos (GRC)  
+- 🛡️ Cibersegurança e **Governança, Riscos e Compliance (GRC)**  
 - 🔏 Privacidade e Proteção de Dados (LGPD)  
 - 🖥️ Pentest e Auditoria de Segurança (Kali Linux, Metasploit, VirtualBox)  
 - 🤖 Automação de Tarefas de Segurança (Scripts Python)  
