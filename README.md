@@ -10,32 +10,31 @@
 ---
 
 ## 📑 Sumário
-- [Sobre mim](#-sobre-mim)  
-- [Áreas de Atuação](#-áreas-de-atuacao)  
-- [Áreas de Interesse](#-áreas-de-interesse)  
-- [Formação Acadêmica](#-formacao-academica)  
-- [Projetos em Destaque](#-projetos-em-destaque)  
-  - [Laboratório Prático de Pentest](#-laboratorio-pratico-de-pentest)  
-  - [Scripts Python para Automação de Segurança](#-scripts-python-para-automacao-de-seguranca)  
-  - [Analisador de Ameaças por E-mail](#-analisador-de-ameacas-por-e-mail)  
-  - [Laboratório Credential Dump & Webshell Attack](#-laboratorio-credential-dump--webshell-attack)  
-  - [Sistema de Classificação de Dados com RBAC](#-sistema-de-classificacao-de-dados-com-rbac)  
-  - [LGPD Scanner](#-lgpd-scanner)  
-  - [Laboratório de Phishing Educativo](#-laboratorio-de-phishing-educativo)  
-- [Aviso Ético](#-aviso-etico)  
-- [Contato](#-contato)  
+- [Sobre mim](#sobre-mim)
+- [Áreas de Atuação](#áreas-de-atuacao)
+- [Áreas de Interesse](#áreas-de-interesse)
+- [Formação Acadêmica](#formacao-academica)
+- [Projetos em Destaque](#projetos-em-destaque)
+  - [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
+  - [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
+  - [Analisador de Ameaças por E-mail](#analisador-de-ameacas-por-e-mail)
+  - [Laboratório Credential Dump & Webshell Attack](#laboratorio-credential-dump--webshell-attack)
+  - [Sistema de Classificação de Dados com RBAC](#sistema-de-classificacao-de-dados-com-rbac)
+  - [LGPD Scanner](#lgpd-scanner)
+  - [Laboratório de Phishing Educativo](#laboratorio-de-phishing-educativo)
+- [Aviso Ético](#aviso-etico)
+- [Contato](#contato)
 
 ---
 
-## 🎯 Sobre mim
-Sou profissional de **Segurança da Informação**, com forte ênfase em **Cibersegurança**, **Privacidade** e **Proteção de Dados**.  
-Acredito que a excelência em segurança é alcançada através de **prática constante, ética profissional e aprendizado aplicado**.
+## Sobre mim
+Sou profissional de **Segurança da Informação**, com forte ênfase em **Cibersegurança**, **Privacidade** e **Proteção de Dados**. Acredito que a excelência em segurança é alcançada através de **prática constante, ética profissional e aprendizado aplicado**.
 
 Minha trajetória se baseia na aplicação de boas práticas em ambientes controlados, com foco no desenvolvimento de soluções práticas, alinhadas à **conformidade regulatória**, especialmente a **LGPD**. Sou apaixonado por projetos hands-on, onde posso experimentar e solucionar desafios do mundo real.
 
 ---
 
-## 🔐 Áreas de Atuação
+## Áreas de Atuação
 - Segurança da Informação Aplicada  
 - Cibersegurança e Governança de Riscos (GRC)  
 - Privacidade e Proteção de Dados (LGPD)  
@@ -47,9 +46,9 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ---
 
-## ⚡ Áreas de Interesse
+## Áreas de Interesse
 - Segurança da Informação e Cibersegurança  
-- Gestão de Riscos, Governança e Compliance (GRC)  
+- Gestão de Riscos Governaça e Compliance (GRC)  
 - Privacidade e Proteção de Dados  
 - Automação de Segurança com Python  
 - Pentest e Testes de Vulnerabilidade  
@@ -57,81 +56,77 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 
 ---
 
-## 🎓 Formação Acadêmica
+## Formação Acadêmica
 - Tecnólogo em Segurança da Informação – UNIP (2024)  
 - MBA em Cibersegurança e Gestão de Riscos – Em andamento  
 
-### 📘 Formações Complementares
+### Formações Complementares
 - Técnico em Administração – CPET  
 - Técnico em Logística – CPET  
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🔹 Laboratório Prático de Pentest
+### Laboratório Prático de Pentest
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 
-**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
+**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.
 
-**📌 Fases:**  
+**Fases:**  
 - Reconhecimento  
 - Enumeração  
 - Exploração  
 - Pós-exploração  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)  
+**Evidências (placeholders):**  
+![Execução 1](https://via.placeholder.com/500x300?text=Execucao+Pentest+1)  
+![Execução 2](https://via.placeholder.com/500x300?text=Execucao+Pentest+2)  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/pentest-lab-kali-metasploitable)
 
 ---
 
-### 🔹 Scripts Python para Automação de Segurança
+### Scripts Python para Automação de Segurança
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/python-security-automation?style=social)
 
-**Descrição:** Automação de processos de segurança com Python, incluindo **varredura de vulnerabilidades**, **coleta de dados de ameaças** e **análise de tráfego de rede**.  
+**Descrição:** Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.
 
-**📌 Objetivos e Fases:**  
+**Objetivos e Fases:**  
 - Varredura de Vulnerabilidades  
 - Enumeração Avançada de Serviços  
 - Análise de Protocolos Específicos (SMB, NFS, FTP, HTTP)  
 - Coleta de Evidências e Relatórios Automáticos  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)  
+➡️ [Ver repositório no GitHub](https://github.com/marcioaugustomazzochi/python-security-automation)
 
 ---
 
-### 🔹 Analisador de Ameaças por E-mail
+### Analisador de Ameaças por E-mail
 ![Email](https://img.shields.io/badge/Email-Threats-blueviolet)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/email-threat-analyzer?style=social)
 
-**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando **ataques de phishing** e fraudes digitais.  
+**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.
 
-**📌 Objetivos:**  
+**Objetivos:**  
 - Identificação de links maliciosos e domínios falsificados  
 - Verificação de remetentes suspeitos  
 - Análise de técnicas de engenharia social  
 - Automação na análise de e-mails  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/email-threat-analyzer)
 
 ---
 
-### 🔹 Laboratório Credential Dump & Webshell Attack
+### Laboratório Credential Dump & Webshell Attack
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 
-**Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades **WebDAV**, upload de **WebShell**, **execução remota de comandos (RCE)** e **extração de credenciais**.  
+**Descrição:** Laboratório controlado demonstrando exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
 
-**📌 Fases:**  
+**Fases:**  
 - Reconhecimento e Verificação de Conectividade  
 - Enumeração de Portas e Serviços  
 - Descoberta de Diretórios Sensíveis  
@@ -140,64 +135,57 @@ Minha trajetória se baseia na aplicação de boas práticas em ambientes contro
 - Extração e Análise de Credenciais  
 - Análise de Impacto e Recomendações  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/credential-dump-webshell-attack-lab)
 
 ---
 
-### 🔹 Sistema de Classificação de Dados com RBAC
+### Sistema de Classificação de Dados com RBAC
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
 
-**Descrição:** Sistema de governança de dados que integra **classificação automática de documentos**, **controle de acesso baseado em papéis (RBAC)**, **avaliação de risco** e **auditoria de acessos**, totalmente automatizado em Python.  
+**Descrição:** Sistema de governança de dados que integra classificação automática de documentos, controle de acesso baseado em papéis (RBAC), avaliação de risco e auditoria de acessos.
 
-**📌 Funcionalidades principais:**  
+**Funcionalidades principais:**  
 - Classificação de arquivos: Interno, Confidencial e Restrito  
 - Avaliação de risco: níveis Médio, Alto e Crítico  
 - Controle de acesso RBAC: Diretor, Analista e Estagiário  
 - Auditoria e relatórios detalhados  
 - Estrutura organizada de diretórios para dados, relatórios e evidências  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)
 
 ---
 
-### 🔹 LGPD Scanner
+### LGPD Scanner
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/lgpd-scanner?style=social)
 
-**Descrição:** Ferramenta desenvolvida em Python para **identificação automática de dados sensíveis**, como **emails, CPFs e números de cartão de crédito**, com geração de **relatórios CSV** e **gráficos estatísticos** para apoiar a conformidade com a **LGPD**.
+**Descrição:** Ferramenta desenvolvida em Python para identificação automática de dados sensíveis, como emails, CPFs e números de cartão de crédito, com geração de relatórios CSV e gráficos estatísticos.
 
-**📌 Funcionalidades principais:**  
+**Funcionalidades principais:**  
 - Varredura automática de arquivos de texto  
-- Identificação de padrões via **Expressões Regulares (Regex)**  
+- Identificação de padrões via Expressões Regulares (Regex)  
 - Classificação de nível de risco  
-- Geração de **relatórios estruturados**  
-- Criação de **gráficos estatísticos**  
+- Geração de relatórios estruturados  
+- Criação de gráficos estatísticos  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-scanner)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-scanner)
 
 ---
 
-### 🔹 Laboratório de Phishing Educativo
+### Laboratório de Phishing Educativo
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Flask](https://img.shields.io/badge/Flask-2.3-orange)
 ![SQLite](https://img.shields.io/badge/SQLite-3.41-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26-red)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6-blue)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
-![MIT License](https://img.shields.io/badge/License-MIT-green)
-![GitHub Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 
-**Descrição:**  
-Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, permitindo análise de logs, captura de screenshots e geração de relatórios automáticos.  
+**Descrição:** Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, permitindo análise de logs, captura de screenshots e geração de relatórios automáticos.
 
-**Funcionalidades:**
+**Funcionalidades:**  
 - Geração automática de páginas educativas  
 - Simulação controlada de envio de e-mails  
 - Registro de interações em CSV e SQLite  
@@ -205,18 +193,18 @@ Laboratório seguro para simulação educativa de engenharia social e campanhas 
 - Geração de relatórios para análise  
 - Modelos personalizáveis  
 
-➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)  
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)
 
 ---
 
-## ⚠️ Aviso Ético
+## Aviso Ético
 Todos os projetos são realizados **exclusivamente em ambientes controlados e autorizados**, com finalidade **educacional**. Nenhuma técnica deve ser aplicada em ambientes reais sem **permissão formal**.
 
 ---
 
-## 📫 Contato
+## Contato
 - **LinkedIn:** [Marcio Augusto Mazzochi](https://www.linkedin.com/in/marcio-augusto-mazzochi-204135215/)  
 - **E-mail:** marciomazzochi@gmail.com  
-- **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)  
+- **GitHub:** [marcioaugustomazzochi](https://github.com/marcioaugustomazzochi)
 
 ⭐ Perfil documenta evolução contínua em **Segurança da Informação**, **Cibersegurança** e **Proteção de Dados**.
