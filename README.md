@@ -28,9 +28,9 @@
 ---
 
 ## Sobre mim
-Sou profissional de **Segurança da Informação**, com forte ênfase em **Cibersegurança**, **Privacidade** e **Proteção de Dados**. Acredito que a excelência em segurança é alcançada através de **prática constante, ética profissional e aprendizado aplicado**.
+Profissional de **Segurança da Informação** com forte atuação em **Cibersegurança**, **Privacidade** e **Proteção de Dados**. Combinando **prática constante, rigor ético e aprendizado aplicado**, desenvolvo soluções robustas alinhadas à **LGPD** e boas práticas de segurança.
 
-Minha trajetória se baseia na aplicação de boas práticas em ambientes controlados, com foco no desenvolvimento de soluções práticas, alinhadas à **conformidade regulatória**, especialmente a **LGPD**. Sou apaixonado por projetos hands-on, onde posso experimentar e solucionar desafios do mundo real.
+Especialista em projetos **hands-on**, aplico conhecimentos em cenários reais, resolvendo desafios complexos e promovendo **segurança efetiva e confiável**.
 
 ---
 
