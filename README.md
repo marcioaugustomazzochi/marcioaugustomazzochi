@@ -14,7 +14,7 @@
 - [Áreas de Atuação](#áreas-de-atuacao)
 - [Áreas de Interesse](#áreas-de-interesse)
 - [Formação Acadêmica](#formacao-academica)
-- [Projetos em Highlight](#projetos-em-highlight)
+- [Projetos em Destaque](#projetos-em-destaque)
   - [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
   - [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
   - [Analisador de Ameaças por E-mail](#analisador-de-ameacas-por-e-mail)
@@ -67,7 +67,7 @@ Especialista em projetos hands-on, aplica conhecimentos em cenários reais, solu
 
 ---
 
-## **Projetos em Highlight**
+## **Projetos em Destaque**
 
 ### 🔹 **Laboratório Prático de Pentest**
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux) ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red) ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
