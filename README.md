@@ -207,6 +207,29 @@ Funcionalidades:
 
 ---
 
+### 🔹 **Projeto de Backup e Restauração**
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)] 
+[![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)] 
+[![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)] 
+[![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)] 
+[![License](https://img.shields.io/badge/License-MIT-green)] 
+[![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/backup-lab-python?style=social)] 
+[![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/backup-lab-python?style=social)] 
+
+**Descrição:**  
+Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.  
+
+**Funcionalidades principais:**  
+- 💾 Backup automatizado de arquivos importantes  
+- 🔒 Criptografia simétrica com Fernet  
+- ✅ Verificação de integridade com SHA256  
+- 🔄 Restauração segura de arquivos  
+- 🛡 Detecção de adulterações (tamper detection)  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/backup-lab-python)
+
+---
+
 ## **Aviso Ético**
 Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
 
