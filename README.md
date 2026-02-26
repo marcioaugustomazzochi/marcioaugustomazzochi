@@ -14,7 +14,7 @@
 - [Áreas de Atuação](#áreas-de-atuacao)
 - [Áreas de Interesse](#áreas-de-interesse)
 - [Formação Acadêmica](#formacao-academica)
-- [Projetos em Destaque](#projetos-em-destaque)
+- [Projetos em Highlight](#projetos-em-highlight)
   - [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
   - [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
   - [Analisador de Ameaças por E-mail](#analisador-de-ameacas-por-e-mail)
