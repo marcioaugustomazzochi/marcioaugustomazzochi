@@ -29,7 +29,7 @@
 ---
 
 ## **Sobre mim**
-Profissional de Segurança da Informação com sólida experiência em Cibersegurança, Privacidade e Proteção de Dados. Combina prática constante, rigor ético e aprendizado aplicado para desenvolver soluções robustas, alinhadas à **LGPD**, às melhores práticas de segurança corporativa e aos padrões internacionais da **ISO/IEC 27001**.
+Profissional de Segurança da Informação com experiência sólida em Cibersegurança, Privacidade e Proteção de Dados. Combina prática constante, rigor ético e aprendizado aplicado para desenvolver soluções robustas, homologadas à **LGPD**, além das melhores práticas de segurança corporativa e aos padrões internacionais da **ISO/IEC 27001**.
 
 Especialista em projetos hands-on, aplica conhecimentos em cenários reais, solucionando desafios complexos e garantindo segurança eficaz, confiável e auditável.
 
