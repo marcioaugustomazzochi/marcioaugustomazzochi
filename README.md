@@ -205,27 +205,29 @@ Funcionalidades:
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/phishing-lab-educativo)
 
---
+---
 
-### 🔹 **Projeto de Backup e Restauração**
+### 🔹 Projeto de Backup e Restauração
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
+![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey?logo=linux)
 ![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)
 ![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Stars](https://img.shields.io/badge/Stars-★-yellow)
-![Forks](https://img.shields.io/badge/Forks-🍴-blue)
- 
+
+[![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/backup-lab-python?style=social)](https://github.com/marcioaugustomazzochi/backup-lab-python/stargazers)
+[![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/backup-lab-python?style=social)](https://github.com/marcioaugustomazzochi/backup-lab-python/network/members)
 
 **Descrição:**  
-Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.  
+Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.
 
-**Funcionalidades principais:**  
-- 💾 Backup automatizado de arquivos importantes  
-- 🔒 Criptografia simétrica com Fernet  
-- ✅ Verificação de integridade com SHA256  
-- 🔄 Restauração segura de arquivos  
-- 🛡 Detecção de adulterações (tamper detection)  
+**Funcionalidades principais:**
+
+💾 Backup automatizado de arquivos importantes  
+🔒 Criptografia simétrica com Fernet  
+✅ Verificação de integridade com SHA256  
+🔄 Restauração segura de arquivos  
+🛡 Detecção de adulterações (tamper detection)  
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/backup-lab-python)
 
