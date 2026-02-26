@@ -213,8 +213,8 @@ Funcionalidades:
 ![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)
 ![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/backup-lab-python?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/backup-lab-python?style=social)
+![Stars](https://img.shields.io/badge/Stars-★-yellow)
+![Forks](https://img.shields.io/badge/Forks-🍴-blue)
  
 
 **Descrição:**  
