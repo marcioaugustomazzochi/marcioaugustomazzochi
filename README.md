@@ -212,7 +212,10 @@ Funcionalidades:
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)
 ![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)
-![License](https://img.shields.io/badge/License-MIT-green) 
+![License](https://img.shields.io/badge/License-MIT-green)
+![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/backup-lab-python?style=social)
+![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/backup-lab-python?style=social)
+ 
 
 **Descrição:**  
 Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.  
