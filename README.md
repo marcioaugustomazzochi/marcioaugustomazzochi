@@ -22,6 +22,7 @@
   - [Sistema de Classificação de Dados com RBAC](#sistema-de-classificacao-de-dados-com-rbac)
   - [LGPD Scanner](#lgpd-scanner)
   - [Laboratório de Phishing Educativo](#laboratorio-de-phishing-educativo)
+  - [Projeto de Backup e Restauração](#projeto-de-backup-e-restauracao)
 - [Aviso Ético](#aviso-etico)
 - [Contato](#contato)
 
@@ -69,11 +70,9 @@ Especialista em projetos hands-on, aplico conhecimentos em cenários reais, reso
 ## **Projetos em Destaque**
 
 ### 🔹 **Laboratório Prático de Pentest**
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
-![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux) ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red) ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
 
-Descrição: Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
+**Descrição:** Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
 
 Fases:  
 - 🔎 Reconhecimento  
@@ -88,9 +87,9 @@ Fases:
 ### 🔹 **Scripts Python para Automação de Segurança**
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python&logoColor=white)
 
-Descrição: Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
+**Descrição:** Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
 
-Objetivos e Fases:  
+Fases:  
 - 🔎 Varredura de Vulnerabilidades  
 - 📂 Enumeração Avançada de Serviços  
 - 🖥️ Análise de Protocolos (SMB, NFS, FTP, HTTP)  
@@ -103,9 +102,9 @@ Objetivos e Fases:
 ### 🔹 **Analisador de Ameaças por E-mail**
 ![Email](https://img.shields.io/badge/Email-Threats-blueviolet?logo=gmail)
 
-Descrição: Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
+**Descrição:** Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
 
-Objetivos:  
+Fases:  
 - 🔗 Identificação de links maliciosos  
 - 📧 Verificação de remetentes suspeitos  
 - 🕵️ Análise de engenharia social  
@@ -116,11 +115,9 @@ Objetivos:
 ---
 
 ### 🔹 **Laboratório Credential Dump & Webshell Attack**
-![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
-![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
-![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux) ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red) ![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
 
-Descrição: Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
+**Descrição:** Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
 
 Fases:  
 - 🔎 Reconhecimento e Verificação de Conectividade  
@@ -136,31 +133,26 @@ Fases:
 ---
 
 ### 🔹 **Sistema de Classificação de Dados com RBAC**
-![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
-![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
-![RBAC](https://img.shields.io/badge/Security-RBAC-green)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python) ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey) ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
 
-Descrição: Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
+**Descrição:** Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
 
-Funcionalidades principais:  
+Funcionalidades:  
 - 📁 Classificação de arquivos: Interno, Confidencial e Restrito  
 - ⚠️ Avaliação de risco: Médio, Alto e Crítico  
 - 🔐 Controle de acesso RBAC  
 - 📝 Auditoria e relatórios detalhados  
-- 🗂 Estrutura organizada de diretórios para dados, relatórios e evidências  
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/sistema-classificacao-dados-rbac)
 
 ---
 
 ### 🔹 **LGPD Scanner**
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
-![Automation](https://img.shields.io/badge/Automation-Python-yellow)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green) ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
 
-Descrição: Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
+**Descrição:** Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
 
-Funcionalidades principais:  
+Funcionalidades:  
 - 🔎 Varredura automática de arquivos de texto  
 - 📝 Identificação de padrões via Regex  
 - ⚠️ Classificação de nível de risco  
@@ -172,14 +164,9 @@ Funcionalidades principais:
 ---
 
 ### 🔹 **Laboratório de Phishing Educativo**
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.3-orange?logo=flask)
-![SQLite](https://img.shields.io/badge/SQLite-3.41-lightgrey?logo=sqlite)
-![HTML](https://img.shields.io/badge/HTML5-E34F26-red?logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6-blue?logo=css3)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-2.3-orange?logo=flask) ![SQLite](https://img.shields.io/badge/SQLite-3.41-lightgrey?logo=sqlite) ![HTML](https://img.shields.io/badge/HTML5-E34F26-red?logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6-blue?logo=css3) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
 
-Descrição: Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
+**Descrição:** Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
 
 Funcionalidades:  
 - 📄 Geração automática de páginas educativas  
@@ -193,24 +180,17 @@ Funcionalidades:
 
 ---
 
-### 🔹 Projeto de Backup e Restauração
+### 🔹 **Projeto de Backup e Restauração**
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey?logo=linux) ![Fernet](https://img.shields.io/badge/Encryption-Fernet-green) ![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange) ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey?logo=linux)
-![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)
-![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+**Descrição:** Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.
 
-**Descrição:**  
-Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.
-
-**Funcionalidades principais:**
-
-💾 Backup automatizado de arquivos importantes  
-🔒 Criptografia simétrica com Fernet  
-✅ Verificação de integridade com SHA256  
-🔄 Restauração segura de arquivos  
-🛡 Detecção de adulterações (tamper detection)  
+Funcionalidades:  
+- 💾 Backup automatizado de arquivos importantes  
+- 🔒 Criptografia simétrica com Fernet  
+- ✅ Verificação de integridade com SHA256  
+- 🔄 Restauração segura de arquivos  
+- 🛡 Detecção de adulterações (tamper detection)  
 
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/backup-lab-python)
 
