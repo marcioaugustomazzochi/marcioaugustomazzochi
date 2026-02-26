@@ -72,8 +72,6 @@ Especialista em projetos hands-on, aplico conhecimentos em cenários reais, reso
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/pentest-lab-kali-metasploitable?style=social)
 
 Descrição: Ambiente controlado e autorizado para execução de testes de penetração (Pentest), explorando vulnerabilidades em sistemas simulados.  
 
@@ -89,8 +87,6 @@ Fases:
 
 ### 🔹 **Scripts Python para Automação de Segurança**
 ![Python](https://img.shields.io/badge/Python-Scripting-yellow?logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/python-security-automation?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/python-security-automation?style=social)
 
 Descrição: Automação de processos de segurança com Python, incluindo varredura de vulnerabilidades, coleta de dados de ameaças e análise de tráfego de rede.  
 
@@ -106,8 +102,6 @@ Objetivos e Fases:
 
 ### 🔹 **Analisador de Ameaças por E-mail**
 ![Email](https://img.shields.io/badge/Email-Threats-blueviolet?logo=gmail)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/email-threat-analyzer?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/email-threat-analyzer?style=social)
 
 Descrição: Análise técnica detalhada de e-mails suspeitos, identificando ataques de phishing e fraudes digitais.  
 
@@ -125,8 +119,6 @@ Objetivos:
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux)
 ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red)
 ![WebDAV](https://img.shields.io/badge/WebDAV-Vulnerability-orange)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/credential-dump-webshell-attack-lab?style=social)
 
 Descrição: Demonstra exploração prática de vulnerabilidades WebDAV, upload de WebShell, execução remota de comandos (RCE) e extração de credenciais.
 
@@ -147,8 +139,6 @@ Fases:
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-Kali-lightgrey)
 ![RBAC](https://img.shields.io/badge/Security-RBAC-green)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/sistema-classificacao-dados-rbac?style=social)
 
 Descrição: Sistema de governança de dados com classificação automática, controle de acesso RBAC e auditoria de acessos.
 
@@ -167,8 +157,6 @@ Funcionalidades principais:
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green)
 ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/lgpd-scanner?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/lgpd-scanner?style=social)
 
 Descrição: Ferramenta para identificação automática de dados sensíveis, geração de relatórios CSV e gráficos estatísticos.
 
@@ -190,8 +178,6 @@ Funcionalidades principais:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26-red?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6-blue?logo=css3)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-0.9.54-green)
-![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/phishing-lab-educativo?style=social)
-![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/phishing-lab-educativo?style=social)
 
 Descrição: Laboratório seguro para simulação educativa de engenharia social e campanhas de phishing, com análise de logs, captura de screenshots e relatórios automáticos.
 
@@ -214,9 +200,6 @@ Funcionalidades:
 ![Fernet](https://img.shields.io/badge/Encryption-Fernet-green)
 ![SHA256](https://img.shields.io/badge/Integrity-SHA256-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-
-[![Stars](https://img.shields.io/github/stars/marcioaugustomazzochi/backup-lab-python?style=social)](https://github.com/marcioaugustomazzochi/backup-lab-python/stargazers)
-[![Forks](https://img.shields.io/github/forks/marcioaugustomazzochi/backup-lab-python?style=social)](https://github.com/marcioaugustomazzochi/backup-lab-python/network/members)
 
 **Descrição:**  
 Sistema de backup seguro com criptografia simétrica (Fernet), verificação de integridade via SHA256 e restauração segura de arquivos em ambiente Linux.
