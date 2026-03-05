@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcio Augusto Mazzochi
+# Olá, eu sou Marcio Augusto Mazzochi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcioaugustomazzochi&color=blue)
 
