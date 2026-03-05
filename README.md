@@ -16,21 +16,21 @@
 
 ---
 
-## Sumário
-- [Sobre mim](#sobre-mim)
-- [Áreas de Atuação](#áreas-de-atuação)
-- [Áreas de Interesse](#áreas-de-interesse)
-- [Formação Acadêmica](#formação-acadêmica)
-- [Projetos em destaque](#projetos-em-destaque)
-  - [Laboratorio Pratico de Pentest](#laboratorio-pratico-de-pentest)
-  - [Scripts Python para Automacao de Seguranca](#scripts-python-para-automacao-de-seguranca)
-  - [Analisador de Ameacas por E-mail](#analisador-de-ameacas-por-e-mail)
-  - [Laboratorio Credential Dump & Webshell Attack](#laboratorio-credential-dump--webshell-attack)
-  - [Sistema de Classificacao de Dados com RBAC](#sistema-de-classificacao-de-dados-com-rbac)
-  - [LGPD Scanner](#lgpd-scanner)
-  - [Laboratorio de Phishing Educativo](#laboratorio-de-phishing-educativo)
-  - [Projeto de Backup e Restauracao](#projeto-de-backup-e-restauracao)
-- [Aviso Etico](#aviso-etico)
+Sumário
+Sobre mim
+Áreas de Atuação
+Áreas de Interesse
+Formação Acadêmica
+Projetos em destaque
+Laboratório Prático de Pentest
+Scripts Python para Automação de Segurança
+Analisador de Ameacas por E-mail
+Ataque de despejo de credenciais e webshell do Laboratorio
+Sistema de Classificação de Dados com RBAC
+Scanner LGPD
+Laboratório de Phishing Educativo
+Projeto de Backup e Restauração
+Aviso Ético
 
 ---
 
