@@ -14,7 +14,7 @@
 - [Áreas de Atuação](#áreas-de-atuacao)
 - [Áreas de Interesse](#áreas-de-interesse)
 - [Formação Acadêmica](#formacao-academica)
-- [Projetos em Destaque](#projetos-em-destaque)
+- [Projetos em Featured](#projetos-em-destaque)
   - [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
   - [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
   - [Analisador de Ameaças por E-mail](#analisador-de-ameacas-por-e-mail)
@@ -203,8 +203,8 @@ Funcionalidades:
 ![HTML](https://img.shields.io/badge/HTML-Email%20Templates-red?logo=html5)
 ![Security Awareness](https://img.shields.io/badge/Security-Awareness-green)
 
-**Descrição:** Projeto de automação para envio de campanhas de conscientização em **Segurança da Informação** no ambiente corporativo.  
-O sistema envia conteúdos educativos periódicos por e-mail, fortalecendo a cultura de segurança dentro das organizações e ajudando a reduzir riscos relacionados ao fator humano.
+**Descrição:** **Descrição:** Projeto de automação para envio de campanhas de conscientização em **Segurança da Informação** no ambiente corporativo.  
+O sistema envia **conteúdos educativos por e-mail**, fortalecendo a cultura de segurança dentro das organizações e ajudando a reduzir riscos relacionados ao fator humano.
 
 Funcionalidades:  
 - 📧 Envio automatizado de e-mails educativos  
