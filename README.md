@@ -30,7 +30,7 @@
   - [Scanner LGPD](#lgpd-scanner)
   - [Laboratório de Phishing Educativo](#laboratório-de-phishing-educativo)
   - [Projeto de Backup e Restauração](#projeto-de-backup-e-restauração)
-- - [Aviso Ético](#aviso-ético)
+  - [Aviso Ético](#aviso-ético)
 
 ---
 
