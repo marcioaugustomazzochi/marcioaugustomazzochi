@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcioaugustomazzochi&color=blue)
 
-💻 Profissional de **Segurança da Informação** focado em **Cibersegurança, Privacidade e Automação de Segurança**.  
+💻 Profissional de **Segurança da Informação** focada em **Cibersegurança, Privacidade e Automação de Segurança**.  
 🔐 Experiência prática em **Pentest, Python Security Automation, LGPD e GRC**.
 
 ---
