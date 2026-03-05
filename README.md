@@ -196,6 +196,28 @@ Funcionalidades:
 
 ---
 
+### 🔹 **Programa de Conscientização Corporativa**
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![SMTP](https://img.shields.io/badge/SMTP-Email-orange)
+![Automation](https://img.shields.io/badge/Automation-Cron-blueviolet)
+![HTML](https://img.shields.io/badge/HTML-Email%20Templates-red?logo=html5)
+![Security Awareness](https://img.shields.io/badge/Security-Awareness-green)
+
+**Descrição:** Projeto de automação para envio de campanhas de conscientização em **Segurança da Informação** no ambiente corporativo.  
+O sistema envia conteúdos educativos periódicos por e-mail, fortalecendo a cultura de segurança dentro das organizações e ajudando a reduzir riscos relacionados ao fator humano.
+
+Funcionalidades:  
+- 📧 Envio automatizado de e-mails educativos  
+- 📄 Templates HTML para campanhas mensais  
+- 🔐 Gerenciamento seguro de credenciais com variáveis de ambiente (.env)  
+- ⚙️ Integração com servidor de e-mail via SMTP  
+- ⏱️ Agendamento automático utilizando cron no Linux  
+- 🗂 Estrutura simples, escalável e reutilizável  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/programa-conscientizacao-corporativa)
+
+---
+
 ## **Aviso Ético**
 Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
 
