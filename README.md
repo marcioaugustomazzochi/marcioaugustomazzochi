@@ -67,7 +67,7 @@ Especialista em projetos hands-on, aplica conhecimentos em cenários reais, solu
 
 ---
 
-## **Projetos em Destaque**
+## **Projetos em Featured**
 
 ### 🔹 **Laboratório Prático de Pentest**
 ![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue?logo=linux) ![Metasploitable](https://img.shields.io/badge/Metasploitable-VM-red) ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-lightgrey)
