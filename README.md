@@ -16,22 +16,21 @@
 
 ---
 
-## Sumário
-
+## 📑 Sumário
 - [Sobre mim](#sobre-mim)
-- [Áreas de Atuação](#areas-de-atuacao)
-- [Áreas de Interesse](#areas-de-interesse)
-- [Formação Acadêmica](#formacao-academica)
-- [Projetos em destaque](#projetos-em-destaque)
-  - [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
-  - [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
-  - [Analisador de Ameacas por E-mail](#analisador-de-ameacas-por-e-mail)
-  - [Ataque de despejo de credenciais e webshell do Laboratorio](#laboratorio-credential-dump--webshell-attack)
-  - [Sistema de Classificação de Dados com RBAC](#sistema-de-classificacao-de-dados-com-rbac)
+- [Áreas de Atuação](#áreas-de-atuação)
+- [Áreas de Interesse](#áreas-de-interesse)
+- [Formação Acadêmica](#formação-acadêmica)
+- [Projetos em destaque](#projetos-em-featured)
+  - [Laboratório Prático de Pentest](#laboratório-prático-de-pentest)
+  - [Scripts Python para Automação de Segurança](#scripts-python-para-automação-de-segurança)
+  - [Analisador de Ameaças por E-mail](#analisador-de-ameaças-por-e-mail)
+  - [Ataque de despejo de credenciais e webshell do Laboratório](#laboratório-credential-dump--webshell-attack)
+  - [Sistema de Classificação de Dados com RBAC](#sistema-de-classificação-de-dados-com-rbac)
   - [Scanner LGPD](#lgpd-scanner)
-  - [Laboratório de Phishing Educativo](#laboratorio-de-phishing-educativo)
-  - [Projeto de Backup e Restauração](#projeto-de-backup-e-restauracao)
-- [Aviso Ético](#aviso-etico)
+  - [Laboratório de Phishing Educativo](#laboratório-de-phishing-educativo)
+  - [Projeto de Backup e Restauração](#projeto-de-backup-e-restauração)
+- [Aviso Ético](#aviso-ético
 
 ---
 
