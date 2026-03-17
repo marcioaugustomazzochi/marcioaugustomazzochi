@@ -224,7 +224,7 @@ Funcionalidades:
 
 ---
 
-## **Aviso Ético**
+## **Aviso ético**
 Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
 
 ---
