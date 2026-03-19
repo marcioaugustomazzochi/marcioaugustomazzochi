@@ -65,7 +65,8 @@ Especialista em projetos hands-on, aplica conhecimentos em cenários reais, solu
 
 ## **Formação Acadêmica**
 - 🎓 Tecnólogo em Segurança da Informação – UNIP (2024)  
-- 🎓 MBA em Cibersegurança e Gestão de Riscos – Em andamento  
+- 🎓 MBA em Cibersegurança e Gestão de Riscos – Em andamento
+- 🎓 Especialização em Docência para a Educação Profissional e Tecnológica – Em andamento  
 
 ### **Formações Complementares**
 - 📘 Técnico em Administração – CPET  
