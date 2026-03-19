@@ -224,6 +224,22 @@ Funcionalidades:
 
 ---
 
+### 🔹 **LGPD Data Mapper**
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python) ![LGPD](https://img.shields.io/badge/LGPD-Compliance-green) ![Automation](https://img.shields.io/badge/Automation-Python-yellow)
+
+**Descrição:** Ferramenta para identificação, mapeamento e classificação automática de dados pessoais e sensíveis, seguindo a **LGPD**. Gera relatórios estruturados em JSON e facilita auditorias e análises de conformidade.  
+
+**Funcionalidades:**  
+- 🔎 Varredura automática de arquivos de texto  
+- 📝 Identificação de padrões de CPF, e-mail, telefone e dados sensíveis  
+- ⚠️ Classificação de dados conforme nível de risco  
+- 📊 Geração de relatórios JSON detalhados  
+- 📈 Estatísticas de dados identificados  
+
+➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-data-mapper)
+
+---
+
 ## **Aviso Ético**
 Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
 
