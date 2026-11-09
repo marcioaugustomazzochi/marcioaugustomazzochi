@@ -242,7 +242,10 @@ Funcionalidades:
 ---
 ### 🔹 **DSA AI Coder — Assistente Pessoal de Programação Python**
 
-Python | Streamlit | Inteligência Artificial | Groq API
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit&logoColor=white)
+![IA](https://img.shields.io/badge/AI-Generative_AI-purple)
+![Groq](https://img.shields.io/badge/Groq-API-orange)
 
 Descrição: Aplicação web desenvolvida em Python com Streamlit e integração com inteligência artificial por meio da API da Groq. O projeto funciona como um assistente pessoal de programação, desenvolvido para apoiar iniciantes no aprendizado de Python, oferecendo explicações didáticas, exemplos de código, auxílio na análise de comandos e referências à documentação oficial.
 
