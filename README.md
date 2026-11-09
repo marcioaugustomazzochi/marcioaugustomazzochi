@@ -240,6 +240,31 @@ Funcionalidades:
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-data-mapper)
 
 ---
+🔹 DSA AI Coder — Assistente Pessoal de Programação Python
+
+Python | Streamlit | Inteligência Artificial | Groq API
+
+Descrição: Aplicação web desenvolvida em Python com Streamlit e integração com inteligência artificial por meio da API da Groq. O projeto funciona como um assistente pessoal de programação, desenvolvido para apoiar iniciantes no aprendizado de Python, oferecendo explicações didáticas, exemplos de código, auxílio na análise de comandos e referências à documentação oficial.
+
+Funcionalidades:
+
+🤖 Interação com inteligência artificial para esclarecimento de dúvidas sobre Python.
+
+🐍 Geração de exemplos práticos de código.
+
+📚 Explicações didáticas sobre conceitos e comandos da linguagem.
+
+🔎 Auxílio na análise de códigos e resolução de problemas.
+
+🔗 Referências à documentação oficial do Python.
+
+🌐 Interface web desenvolvida com Streamlit e publicada na nuvem.
+
+➡️ Ver projeto no GitHub: https://github.com/marcioaugustomazzochi/dsa-assistente
+
+➡️ Acessar aplicação: https://dsa-assistente-bjdycprgig4hauxwna9gth.streamlit.app/
+
+---
 
 ## **Aviso Ético**
 Todos os projetos são realizados exclusivamente em ambientes controlados e autorizados, com finalidade educacional. Nenhuma técnica deve ser aplicada em ambientes reais sem permissão formal.
