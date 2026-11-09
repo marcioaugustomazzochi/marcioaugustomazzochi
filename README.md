@@ -41,6 +41,7 @@
 Profissional de Segurança da Informação com foco em Cibersegurança, Privacidade e Proteção de Dados. Desenvolve projetos práticos em ambientes controlados, aplicando conhecimentos em Pentest, automação com Python, LGPD e boas práticas de segurança.
 
 Busca aprimoramento contínuo por meio de estudos, laboratórios e desenvolvimento de soluções alinhadas à ISO/IEC 27001 e à legislação de proteção de dados.
+
 ---
 
 ## **Áreas de Atuação**
