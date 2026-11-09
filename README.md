@@ -22,16 +22,44 @@
 - [Áreas de Interesse](#áreas-de-interesse)
 - [Formação Acadêmica](#formação-acadêmica)
 - [Projetos em destaque](#projetos-em-featured)
-- [Laboratório Prático de Pentest](#laboratorio-pratico-de-pentest)
-- [Scripts Python para Automação de Segurança](#scripts-python-para-automacao-de-seguranca)
-- [Analisador de Ameaças por E-mail](#analisador-de-ameacas-por-email)
-- [Ataque de despejo de credenciais e webshell do Laboratório](#credential-dump-webshell-attack)
-- [Sistema de Classificação de Dados com RBAC](#sistema-de-classificacao-de-dados-com-rbac)
-- [Scanner LGPD](#lgpd-scanner)
-- [Laboratório de Phishing Educativo](#laboratorio-de-phishing-educativo)
-- [Projeto de Backup e Restauração](#projeto-de-backup-e-restauracao)
-- [DSA AI Coder — Assistente Pessoal de Programação Python](#dsa-ai-coder)
-- [Aviso Ético](#aviso-etico)
+1. Laboratório Prático de Pentest
+<a id="laboratorio-pratico-de-pentest"></a>
+
+
+2. Scripts Python para Automação de Segurança
+<a id="scripts-python-para-automacao-de-seguranca"></a>
+
+
+3. Analisador de Ameaças por E-mail
+<a id="analisador-de-ameacas-por-email"></a>
+
+
+4. Laboratório Credential Dump & Webshell Attack
+<a id="credential-dump-webshell-attack"></a>
+
+
+5. Sistema de Classificação de Dados com RBAC
+<a id="sistema-de-classificacao-de-dados-com-rbac"></a>
+
+
+6. LGPD Scanner
+<a id="lgpd-scanner"></a>
+
+
+7. Laboratório de Phishing Educativo
+<a id="laboratorio-de-phishing-educativo"></a>
+
+
+8. Projeto de Backup e Restauração
+<a id="projeto-de-backup-e-restauracao"></a>
+
+
+9. DSA AI Coder — Assistente Pessoal de Programação Python
+<a id="dsa-ai-coder"></a>
+
+
+10. Aviso Ético
+<a id="aviso-etico"></a>
 
 ---
 
