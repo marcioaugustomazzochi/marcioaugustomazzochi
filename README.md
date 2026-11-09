@@ -17,6 +17,7 @@
 ---
 
 ## 📑 Sumário
+
 - [Sobre mim](#sobre-mim)
 - [Áreas de Atuação](#áreas-de-atuação)
 - [Áreas de Interesse](#áreas-de-interesse)
