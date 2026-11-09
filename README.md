@@ -30,6 +30,7 @@
   - [Scanner LGPD](#lgpd-scanner)
   - [Laboratório de Phishing Educativo](#laboratório-de-phishing-educativo)
   - [Projeto de Backup e Restauração](#projeto-de-backup-e-restauração)
+  - [DSA AI Coder — Assistente Pessoal de Programação Python](#dsa-ai-coder--assistente-pessoal-de-programação-python)
   - [Aviso Ético](#aviso-ético)
 
 ---
