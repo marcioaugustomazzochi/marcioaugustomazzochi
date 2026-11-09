@@ -240,7 +240,7 @@ Funcionalidades:
 ➡️ [Ver projeto no GitHub](https://github.com/marcioaugustomazzochi/lgpd-data-mapper)
 
 ---
-🔹 DSA AI Coder — Assistente Pessoal de Programação Python
+### 🔹 **DSA AI Coder — Assistente Pessoal de Programação Python**
 
 Python | Streamlit | Inteligência Artificial | Groq API
 
