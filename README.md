@@ -74,8 +74,9 @@ Especialista em projetos hands-on, aplica conhecimentos em cenários reais, solu
 - 🎓 Especialização em Informática Aplicada à Educação – IFMA (Em andamento)
 
 ### **Formações Complementares**
-- 📘 Técnico em Administração – CPET
-- 📘 Técnico em Logística – CPET
+
+- 📘 Técnico em Administração – CPET (Concluído)
+- 📘 Técnico em Logística – CPET (Concluído)
 
 ---
 
