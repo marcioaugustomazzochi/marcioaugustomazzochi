@@ -38,8 +38,9 @@
 
 ## **Sobre mim**
 
-Profissional de Segurança da Informação com foco em Cibersegurança, Privacidade e Proteção de Dados. Desenvolve projetos práticos e laboratórios de segurança, aplicando conhecimentos técnicos, rigor ético e aprendizado contínuo na criação de soluções alinhadas à LGPD, às boas práticas de segurança corporativa e aos princípios da norma ISO/IEC 27001.
-Desenvolve projetos práticos (*hands-on*) em ambientes controlados, aplicando conhecimentos em Segurança da Informação, identificação de vulnerabilidades, automação com Python e proteção de dados. Busca aprimorar continuamente suas competências técnicas por meio de estudos e experiências práticas.
+Profissional de Segurança da Informação com foco em Cibersegurança, Privacidade e Proteção de Dados. Desenvolve projetos práticos em ambientes controlados, aplicando conhecimentos em Pentest, automação com Python, LGPD e boas práticas de segurança.
+
+Busca aprimoramento contínuo por meio de estudos, laboratórios e desenvolvimento de soluções alinhadas à ISO/IEC 27001 e à legislação de proteção de dados.
 ---
 
 ## **Áreas de Atuação**
